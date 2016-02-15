@@ -2,9 +2,9 @@
 
 Website for our Yosemite wedding, February 18th, 2017!
 
-
-
-
+#
+#
+#
 
 # Wedding website notes
 
@@ -25,7 +25,7 @@ Attire: ____
 
 Ceremony will be outdoors!!!
 
-## Cermony and Reception
+## Ceremony and Reception
 
 The Ahwahnee Hotel
 
@@ -46,6 +46,12 @@ The Ahwahnee Hotel
 9006 Yosemite Lodge Drive, Yosemite National Park, CA 95389
 
 801-559-4884
+
+#### Offers
+
+http://www.yosemitepark.com/stay-two-nights-ski-free.aspx
+
+http://www.yosemitepark.com/badger-pass-stay-n-play.aspx
 
 ## Photos 
 
