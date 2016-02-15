@@ -8,11 +8,8 @@ Emily and Jim
 
 February 18th, 2017 in Yosemite National Park
 
-## (Have a countdown?)
+(Have a countdown?)
 
-## Our story
-
-### How we met
 
 ## The wedding
 
@@ -25,8 +22,29 @@ Attire: ____
 ## Cermony and Reception
 
 The Ahwahnee Hotel
+
 1 Ahwahnee Drive, Yosemite National Park, CA 95389
 
-## Wedding party info???
-
 ## Details page
+
+## Accommodations
+
+### The Ahwahnee Hotel
+
+1 Ahwahnee Drive, Yosemite National Park, CA 95389
+
+801-559-4884
+
+### Yosemite Lodge at the Falls
+
+9006 Yosemite Lodge Drive, Yosemite National Park, CA 95389
+
+801-559-4884
+
+## Photos page
+
+Put engagement photos here
+
+## Registry page
+
+Put registry links here
