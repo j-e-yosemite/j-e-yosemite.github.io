@@ -21,11 +21,15 @@ Attire: Cocktail
 
 ??? Ceremony will be outdoors!!!
 
-## Ceremony and Reception
+## Ceremony and reception
 
 The Ahwahnee Hotel
 
 1 Ahwahnee Drive, Yosemite National Park, CA 95389
+
+## Other events
+
+Skiing, a hike, brunch?
 
 ## Details 
 
