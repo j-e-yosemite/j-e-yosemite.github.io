@@ -4,7 +4,7 @@ Website for our Yosemite wedding, February 18th, 2017!
 
 # Wedding website notes
 
-## (Our wedding page -- (home page)) 
+## ("Our wedding" page -- (home page)) 
 
 Emily and Jim
 
@@ -33,7 +33,7 @@ The Ahwahnee Hotel
 
 Skiing, a hike, brunch?
 
-## (Details page) 
+## ("Details" page) 
 
 ### Accommodations
 
@@ -65,6 +65,12 @@ http://www.yosemitepark.com/badger-pass-stay-n-play.aspx
 
 The closest airport is the Fresno Yosemite International Airport (FAT). The distance from FAT to the Ahwahnee is 96 miles. 
 
+Car rental info?
+
+Carry chains
+
+$20 entrance fee
+
 #### Yosemite Valley Shuttle Bus
 
 In the winter, the Yosemite Valley Shuttle system operates from 7:00 am to 10:00 pm and runs every 30 minutes. 
@@ -75,12 +81,12 @@ http://www.yosemitepark.com/Files/2015_Yosemite-ShuttleMap.pdf
 
 http://www.yosemitepark.com/Activities.aspx
 
-## (Photos page) 
+## ("Photos" page) 
 
 ### Engagement shoot
 
 Put engagement photos here
 
-## (Registry page)
+## ("Registry" page)
 
 We can't wait to get married and are honored to have you at our wedding! If you would like to help us start our life together, we have registered for items we'd love to have in our home.
