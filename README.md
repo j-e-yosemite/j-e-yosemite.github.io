@@ -13,7 +13,7 @@ February 18th, 2017 in Yosemite National Park
 (Have a countdown???)
 
 
-## The wedding
+### The wedding
 
 Saturday, February 18th, 2017
 
@@ -23,13 +23,13 @@ Attire: Cocktail
 
 ??? Ceremony will be outdoors!!!
 
-## Ceremony and reception
+### Ceremony and reception
 
 The Ahwahnee Hotel
 
 1 Ahwahnee Drive, Yosemite National Park, CA 95389
 
-## Other events
+### Other events
 
 Skiing, a hike, brunch?
 
@@ -89,4 +89,4 @@ Put engagement photos here
 
 ## ("Registry" page)
 
-We can't wait to get married and are honored to have you at our wedding! If you would like to help us start our life together, we have registered for items we'd love to have in our home.
+We can't wait to get married and are honored to have you at our wedding! If you would like to help us start our life together, we have registered for items we would love to have in our home.
