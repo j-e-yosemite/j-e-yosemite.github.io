@@ -4,6 +4,8 @@ Website for our Yosemite wedding, February 18th, 2017!
 
 # Wedding website notes
 
+## (Our wedding page -- (home page)) 
+
 Emily and Jim
 
 February 18th, 2017 in Yosemite National Park
@@ -31,7 +33,7 @@ The Ahwahnee Hotel
 
 Skiing, a hike, brunch?
 
-## Details 
+## (Details page) 
 
 ### Accommodations
 
@@ -73,12 +75,12 @@ http://www.yosemitepark.com/Files/2015_Yosemite-ShuttleMap.pdf
 
 http://www.yosemitepark.com/Activities.aspx
 
-## Photos 
+## (Photos page) 
 
 ### Engagement shoot
 
 Put engagement photos here
 
-## Registry 
+## (Registry page)
 
 We can't wait to get married and are honored to have you at our wedding! If you would like to help us start our life together, we have registered for items we'd love to have in our home.
