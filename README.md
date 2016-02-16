@@ -63,14 +63,18 @@ The closest airport is the Fresno Yosemite International Airport (FAT). The dist
 
 In the winter, the Yosemite Valley Shuttle system operates from 7:00 am to 10:00 pm and runs every 30 minutes. 
 
+http://www.yosemitepark.com/Files/2015_Yosemite-ShuttleMap.pdf
+
 ### Things to do
 
 http://www.yosemitepark.com/Activities.aspx
 
 ## Photos 
 
+### Engagement shoot
+
 Put engagement photos here
 
 ## Registry 
 
-Put registry links here
+We are honored to have you at our wedding! If you would like to help us start our new life together, we have registered for items we would love to have in our home.
