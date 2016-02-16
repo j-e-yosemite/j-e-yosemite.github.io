@@ -65,17 +65,27 @@ http://www.yosemitepark.com/badger-pass-stay-n-play.aspx
 
 The closest airport is the Fresno Yosemite International Airport (FAT). The distance from FAT to the Ahwahnee is 96 miles. 
 
-Car rental info?
+By law, tire chains must be carried in your vehicle from October-April. For the latest updates on conditions in the park, call 209-372-0209.
 
-Carry chains
+$25 entrance fee, seven day pass
 
-$20 entrance fee
+No food in cars -- bears!
+
+#### Parking
+
+All parking in Yosemite Valley is free of charge. At the Ahwahnee, valet parking is available and complimentary.
 
 #### Yosemite Valley Shuttle Bus
+
+Shuttle between lodging choices.
 
 In the winter, the Yosemite Valley Shuttle system operates from 7:00 am to 10:00 pm and runs every 30 minutes. 
 
 http://www.yosemitepark.com/Files/2015_Yosemite-ShuttleMap.pdf
+
+### Childcare
+
+Info on childcare
 
 ### Things to do
 
