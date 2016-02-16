@@ -77,4 +77,4 @@ Put engagement photos here
 
 ## Registry 
 
-We are honored to have you at our wedding! If you would like to help us start our new life together, we have registered for items we would love to have in our home.
+We can't wait to get married and are honored to have you at our wedding! If you would like to help us start our life together, we have registered for items we'd love to have in our home.
