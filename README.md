@@ -8,7 +8,9 @@ Website for our Yosemite wedding, February 18th, 2017!
 
 Emily and Jim
 
-February 18th, 2017 in Yosemite National Park
+February 18th, 2017
+
+Yosemite National Park
 
 (Have a countdown???)
 
@@ -19,15 +21,15 @@ Saturday, February 18th, 2017
 
 4:15 pm
 
-Attire: Cocktail
-
-The ceremony will be outdoors on the Ahwahnee wedding lawn, a short walk from the hotel. Yosemite is gorgeous in winter and February may bring snow, so wear proper attire (particularly shoes)!  
-
 ### Ceremony and reception
 
 The Ahwahnee Hotel
 
 1 Ahwahnee Drive, Yosemite National Park, CA 95389
+
+Attire: Cocktail
+
+The ceremony will be outdoors on the Ahwahnee wedding lawn, a short walk from the hotel. Yosemite is gorgeous in winter and February may bring snow, so wear proper attire (particularly shoes)!  
 
 ### Other events
 
@@ -69,7 +71,7 @@ By law, tire chains must be carried in vehicles from October - April. For the la
 
 The National Park Service collects an entrance fee per vehicle (link: http://www.nps.gov/yose/planyourvisit/fees.htm), which is good for seven days.
 
-Make sure not to leave any food in cars, or you might attract bears!
+Don't leave any food in your vehicle, or you might attract bears!
 
 #### Airport
 
@@ -79,9 +81,9 @@ The closest airport is the Fresno Yosemite International Airport (FAT). The dist
 
 All parking in Yosemite Valley is free of charge. At the Ahwahnee, valet parking is available and complimentary.
 
-#### Yosemite Valley Shuttle Bus
+#### Yosemite Valley Shuttle 
 
-The free Valley Shuttle stops at all Yosemite Valley destinations, including the Ahwahnee and Yosemite Lodge at the Falls. In the winter, the shuttle operates from 7:00 am to 10:00 pm and runs every 30 minutes. The reception ends at 10:00, so if you plan on partying with us all night make sure you don't miss the last shuttle!
+The free Valley Shuttle makes stops at all Yosemite Valley destinations, including the Ahwahnee and Yosemite Lodge at the Falls. In the winter it operates from 7:00 am to 10:00 pm, every 30 minutes. The reception ends at 10:00, so if you plan on partying with us all night make sure you don't miss the last shuttle!
 
 http://www.yosemitepark.com/Files/2015_Yosemite-ShuttleMap.pdf
 
