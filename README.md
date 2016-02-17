@@ -21,13 +21,13 @@ Saturday, February 18th, 2017
 
 4:15 pm
 
+Attire: Cocktail
+
 ### Ceremony and reception
 
 The Ahwahnee Hotel
 
 1 Ahwahnee Drive, Yosemite National Park, CA 95389
-
-Attire: Cocktail
 
 The ceremony will be outdoors on the Ahwahnee wedding lawn, a short walk from the hotel. Yosemite is gorgeous in winter and February may bring snow, so wear proper attire (particularly shoes)!  
 
@@ -71,7 +71,7 @@ By law, tire chains must be carried in vehicles from October - April. For the la
 
 The National Park Service collects an entrance fee per vehicle (link: http://www.nps.gov/yose/planyourvisit/fees.htm), which is good for seven days.
 
-Don't leave any food in your vehicle, or you might attract bears!
+Don't leave any food in your vehicle -- you might attract bears!
 
 #### Airport
 
@@ -103,4 +103,4 @@ Put engagement photos here
 
 ## ("Registry" page)
 
-We're so excited about our wedding and honored to have you there. If you'd like to help us begin our life together, we've registered for items we'd love to have in our home.
+We're so excited about our wedding and honored to have you there. If you want to help us begin our life together, we've registered for items we'd love to have in our home.
