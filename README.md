@@ -79,11 +79,13 @@ The closest airport is the Fresno Yosemite International Airport (FAT). The dist
 
 #### Parking
 
-All parking in Yosemite Valley is free of charge. At the Ahwahnee, valet parking is available and complimentary.
+All parking in Yosemite Valley is free of charge. At the Ahwahnee, valet parking is complimentary.
 
 #### Yosemite Valley Shuttle 
 
-The free Valley Shuttle makes stops at all Yosemite Valley destinations, including the Ahwahnee and Yosemite Lodge at the Falls. In the winter it operates from 7:00 am to 10:00 pm, every 30 minutes. The reception ends at 10:00, so if you plan on partying with us all night make sure you don't miss the last shuttle!
+The free Valley Shuttle makes stops at all Yosemite Valley destinations, including the Ahwahnee and Yosemite Lodge at the Falls. In the winter, the Valley Shuttle runs from 7:00 am to 10:00 pm every 30 minutes. 
+
+The reception ends at 10:00, so if you plan on partying with us all night make sure you don't miss that last shuttle!
 
 http://www.yosemitepark.com/Files/2015_Yosemite-ShuttleMap.pdf
 
