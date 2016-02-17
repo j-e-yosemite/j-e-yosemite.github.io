@@ -105,4 +105,4 @@ Put engagement photos here
 
 ## ("Registry" page)
 
-We're so excited about our wedding and honored to have you there. If you want to help us begin our life together, we've registered for items we'd love to have in our home.
+We're so excited about our wedding and honored to have you there. If you'd like to help us begin our life together, we've registered for items we'd love to have in our home.
