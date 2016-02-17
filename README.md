@@ -21,7 +21,7 @@ Saturday, February 18th, 2017
 
 Attire: Cocktail
 
-??? Ceremony will be outdoors!!!
+The ceremony will be outdoors on the Ahwahnee wedding lawn, a short walk from the hotel. Yosemite is gorgeous in winter and February may bring snow, so wear proper attire (particularly shoes)!  
 
 ### Ceremony and reception
 
@@ -45,6 +45,8 @@ Skiing, a hike, brunch?
 
 http://www.yosemitepark.com/the-ahwahnee.aspx
 
+(Is there a way we can make the link a button rather than an ugly website address?)
+
 #### Yosemite Lodge at the Falls
 
 9006 Yosemite Lodge Drive, Yosemite National Park, CA 95389
@@ -61,15 +63,17 @@ http://www.yosemitepark.com/badger-pass-stay-n-play.aspx
 
 ### Travel and transport
 
+#### Notable details
+
+By law, tire chains must be carried in vehicles from October - April. For the latest updates on park conditions, call 209-372-0209.
+
+The National Park Service collects an entrance fee per vehicle (link: http://www.nps.gov/yose/planyourvisit/fees.htm), which is good for seven days.
+
+Make sure not to leave any food in cars, or you might attract bears!
+
 #### Airport
 
 The closest airport is the Fresno Yosemite International Airport (FAT). The distance from FAT to the Ahwahnee is 96 miles. 
-
-By law, tire chains must be carried in your vehicle from October-April. For the latest updates on conditions in the park, call 209-372-0209.
-
-$25 entrance fee, seven day pass
-
-No food in cars -- bears!
 
 #### Parking
 
@@ -77,9 +81,7 @@ All parking in Yosemite Valley is free of charge. At the Ahwahnee, valet parking
 
 #### Yosemite Valley Shuttle Bus
 
-Shuttle between lodging choices.
-
-In the winter, the Yosemite Valley Shuttle system operates from 7:00 am to 10:00 pm and runs every 30 minutes. 
+The free Valley Shuttle stops at all Yosemite Valley destinations, including the Ahwahnee and Yosemite Lodge at the Falls. In the winter, the shuttle operates from 7:00 am to 10:00 pm and runs every 30 minutes. The reception ends at 10:00, so if you plan on partying with us all night make sure you don't miss the last shuttle!
 
 http://www.yosemitepark.com/Files/2015_Yosemite-ShuttleMap.pdf
 
@@ -99,4 +101,4 @@ Put engagement photos here
 
 ## ("Registry" page)
 
-We can't wait to get married and are honored to have you at our wedding! If you would like to help us start our life together, we have registered for items we would love to have in our home.
+We're so excited about our wedding and honored to have you there. If you'd like to help us begin our life together, we've registered for items we'd love to have in our home.
