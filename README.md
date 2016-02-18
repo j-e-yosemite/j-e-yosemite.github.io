@@ -35,11 +35,13 @@ The ceremony will be outdoors on the Ahwahnee wedding lawn, a short walk from th
 
 Skiing, a hike, brunch?
 
-***Ahwahnee bar after party -- bar open until 11:00 pm. 
+Yosemite is a spectacular, natural place. To honor the deserved enjoyment of all who visit there, quiet hours in Yosemite Valley begin at 10:00 pm. Thus ends our reception, but the Ahwahnee Bar will be open until 11:00 pm for those who'd like to revel a little bit more with us!
 
 ## ("Details" page) 
 
 ### Accommodations
+
+Yosemite's National Park status prevents us from setting aside a block of rooms for our wedding. Although February is the low season for tourism, we still would recommend deciding your accommodations soon -- we want to be sure you're there to celebrate with us!
 
 #### The Ahwahnee Hotel
 
@@ -107,4 +109,4 @@ Put engagement photos here
 
 ## ("Registry" page)
 
-We're so excited about our wedding and honored to have you there. If you'd like to help us begin our life together, we've registered for items we'd love to have in our home.
+We're so excited for our wedding and honored to have you there. If you'd like to help us begin our life together, we've registered for items we'd love to have in our home.
