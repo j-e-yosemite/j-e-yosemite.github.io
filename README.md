@@ -29,11 +29,13 @@ The Ahwahnee Hotel
 
 1 Ahwahnee Drive, Yosemite National Park, CA 95389
 
-The ceremony will be outdoors on the Ahwahnee wedding lawn, a short walk from the hotel. Yosemite is gorgeous in winter and February may bring snow, so wear proper attire (particularly shoes)!  
+The ceremony will be outdoors on the Ahwahnee wedding lawn, a short walk from the hotel. Yosemite is gorgeous in winter and February may bring snow, so dress appropriately (particularly when choosing shoes)!  
 
 ### Other events
 
 Skiing, a hike, brunch?
+
+***Ahwahnee bar after party -- bar open until 11:00 pm. 
 
 ## ("Details" page) 
 
@@ -71,7 +73,7 @@ By law, tire chains must be carried in vehicles from October - April. For the la
 
 The National Park Service collects an entrance fee per vehicle (link: http://www.nps.gov/yose/planyourvisit/fees.htm), which is good for seven days.
 
-Don't leave any food in your vehicle -- you might attract bears!
+Don't leave any food in your vehicle -- black bears are part of Yosemite's spectacular biological diversity!
 
 #### Airport
 
@@ -85,7 +87,7 @@ All parking in Yosemite Valley is free of charge. At the Ahwahnee, valet parking
 
 The free Valley Shuttle makes stops at all Yosemite Valley destinations, including the Ahwahnee and Yosemite Lodge at the Falls. In the winter, the Valley Shuttle runs from 7:00 am to 10:00 pm every 30 minutes. 
 
-The reception ends at 10:00, so if you plan on partying with us all night make sure you don't miss that last shuttle!
+The reception ends at 10:00, so if you plan on partying with us all night make sure you don't miss the last shuttle!
 
 http://www.yosemitepark.com/Files/2015_Yosemite-ShuttleMap.pdf
 
