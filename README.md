@@ -89,7 +89,7 @@ All parking in Yosemite Valley is free of charge. At the Ahwahnee, valet parking
 
 The free Valley Shuttle makes stops at all Yosemite Valley destinations, including the Ahwahnee and Yosemite Lodge at the Falls. In the winter, the Valley Shuttle runs from 7:00 am to 10:00 pm every 30 minutes. 
 
-The reception ends at 10:00 -- don't miss the last shuttle if you plan on partying with us all night!
+The reception ends at 10:00 pm -- don't miss the last shuttle if you plan on partying with us all night!
 
 http://www.yosemitepark.com/Files/2015_Yosemite-ShuttleMap.pdf
 
