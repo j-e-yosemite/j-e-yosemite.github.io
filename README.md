@@ -35,7 +35,7 @@ The ceremony will be outdoors on the Ahwahnee wedding lawn, a short walk from th
 
 Skiing, a hike, brunch?
 
-Yosemite is a spectacular, natural place. To honor the deserved enjoyment of all who visit there, quiet hours in Yosemite Valley begin at 10:00 pm. Thus ends our reception, but the Ahwahnee Bar will be open until 11:00 pm for those who'd like to revel a little bit more with us!
+Yosemite is a spectacular, natural place. To honor the deserved enjoyment of all who visit here, quiet hours in Yosemite Valley begin at 10:00 pm. Thus ends our reception, but the Ahwahnee Bar will be open until 11:00 pm for those who'd like to revel a bit more with us!
 
 ## ("Details" page) 
 
@@ -75,7 +75,7 @@ By law, tire chains must be carried in vehicles from October - April. For the la
 
 The National Park Service collects an entrance fee per vehicle (link: http://www.nps.gov/yose/planyourvisit/fees.htm), which is good for seven days.
 
-Don't leave any food in your vehicle -- black bears are part of Yosemite's spectacular biological diversity!
+Don't leave any food in your vehicle -- black bears are part of Yosemite's striking biological diversity!
 
 #### Airport
 
@@ -89,7 +89,7 @@ All parking in Yosemite Valley is free of charge. At the Ahwahnee, valet parking
 
 The free Valley Shuttle makes stops at all Yosemite Valley destinations, including the Ahwahnee and Yosemite Lodge at the Falls. In the winter, the Valley Shuttle runs from 7:00 am to 10:00 pm every 30 minutes. 
 
-The reception ends at 10:00, so if you plan on partying with us all night make sure you don't miss the last shuttle!
+The reception ends at 10:00 -- don't miss the last shuttle if you plan on partying with us all night!
 
 http://www.yosemitepark.com/Files/2015_Yosemite-ShuttleMap.pdf
 
