@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Details
-permalink: /Nahere/
+permalink: /Beiwerk/
 ---
 
 ## [Accommodations](#Unterkunft)
