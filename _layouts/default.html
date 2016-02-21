@@ -1,5 +1,9 @@
 <!DOCTYPE html>
+{% if page.url == "/index.html" %}
+<html class="home-page">
+{% else %]
 <html>
+{% endif %}
 
   {% include head.html %}
 
