@@ -25,7 +25,7 @@ Yosemite's National Park status prevents us from setting aside a block of rooms 
 ## [Travel and transport](#Transport)
 
 ### Notable details
-* By law, tire chains must be carried in vehicles from October - April. Yosemite winter driving tips are available [here](http://www.yosemitepark.com/yosemite-winter-driving.aspx). For the latest updates on park conditions, call 209-372-0209.
+* By law, tire chains must be carried in vehicles from October - April. See the park's great resource on [winter driving](http://www.yosemitepark.com/yosemite-winter-driving.aspx) for more information. For the latest updates on park conditions, call 209-372-0209.
 
 * The National Park Service collects an entrance [fee](http://www.nps.gov/yose/planyourvisit/fees.htm) per vehicle, which is good for seven days.
 
@@ -62,7 +62,7 @@ The [Curry Village Ice Skating Rink](http://www.yosemitepark.com/ice-skating.asp
 
 ### Yosemite Valley Floor tour
 
-[Valley Floor bus tours](http://www.yosemitepark.com/valley-floor-tour.aspx) are available year-round to introduce you to the famous sites in Yosemite Valley.
+[Valley Floor bus tours](http://www.yosemitepark.com/valley-floor-tour.aspx) are available year-round to show you to the famous sites of Yosemite Valley.
 
 ### Nature and history programs
 
