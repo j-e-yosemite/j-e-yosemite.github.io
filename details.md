@@ -35,6 +35,14 @@ Yosemite's National Park status prevents us from setting aside a block of rooms 
 
 The closest airport is the Fresno Yosemite International Airport [(FAT)](http://www.flyfresno.com/). The distance from FAT to the Ahwahnee is 96 miles.
 
+### Directions
+
+http://www.yosemitepark.com/yosemite-directions.aspx
+
+### Public transportation
+
+http://www.yosemitepark.com/public-transportation.aspx
+
 ### Parking
 
  All parking in Yosemite Valley is free of charge. At the Ahwahnee, valet parking is complimentary.
@@ -51,6 +59,8 @@ The reception ends at 10:00 pm -- don't miss the last shuttle if you plan on par
 Due to the very limited size of our venue, we regret that we can't invite children to our ceremony or reception. Please let us [know](mailto:{{ site.email }}) if you'd like us to help set up childcare for your children!
 
 ## [Things to do](#Sehen)
+
+The park offers great resources for [planning your visit](http://www.yosemitepark.com/plan-your-visit.aspx). We've highlighted a few specific activities below!
 
 ### Badger Pass 
 
