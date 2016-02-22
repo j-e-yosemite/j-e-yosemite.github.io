@@ -41,15 +41,29 @@ The closest airport is the Fresno Yosemite International Airport [(FAT)](http://
 
 ### Yosemite Valley Shuttle
 
-The free [Valley Shuttle](http://www.yosemitepark.com/Files/2015_Yosemite-ShuttleMap.pdf) makes stops at all Yosemite Valley destinations, including the Ahwahnee and Yosemite Lodge at the Falls. In the winter, the Valley Shuttle runs from 7:00 am to 10:00 pm every 30 minutes.
+The free [Valley Shuttle](http://www.yosemitepark.com/Files/2015_Yosemite-ShuttleMap.pdf) makes stops at all Yosemite Valley destinations, including the Ahwahnee and Yosemite Lodge at the Falls. In the winter, the shuttle runs from 7:00 am to 10:00 pm every 30 minutes.
 
 The reception ends at 10:00 pm -- don't miss the last shuttle if you plan on partying with us all night!
 
 
 ## [Childcare](#Wunderkind)
 
-Due to the very limited size of our venue, we can't invite children to our ceremony or reception. Please let us [know](mailto:{{ site.email }}) if you'd like us to help set up childcare for your children!
+Due to the very limited size of our venue, we regret that we can't invite children to our ceremony or reception. Please let us [know](mailto:{{ site.email }}) if you'd like us to help set up childcare for your children!
 
 ## [Things to do](#Sehen)
 
-If you want to ski or snowboard while you're in the area check out Badger Pass [here](http://www.yosemitepark.com/stay-two-nights-ski-free.aspx) and [here](http://www.yosemitepark.com/badger-pass-stay-n-play.aspx). There are also plenty of other [activities](http://www.yosemitepark.com/Activities.aspx)!
+### Badger Pass 
+
+[Badger Pass](http://www.yosemitepark.com/BadgerPass.aspx) is California's oldest ski resort, and well worth visiting! They offer several [winter packages and deals](http://www.yosemitepark.com/winter-package-deals.aspx?webSyncID=8a12c02a-37cd-2e0e-00c0-e8248e7c7269&sessionGUID=703b9a98-9ddd-b278-9a07-998794698e00) to help you make the most of your time in Yosemite! 
+
+### Curry Village Ice Skating Rink
+
+The [Curry Village Ice Skating Rink](http://www.yosemitepark.com/ice-skating.aspx) is another excellent way to take in the winter beauty of Yosemite!
+
+### Yosemite Valley Floor tour
+
+Yosemite offers a [Valley Floor bus tour](http://www.yosemitepark.com/valley-floor-tour.aspx) to introduce visitors to the most famous sites in Yosemite Valley.
+
+### Other activities
+
+Please see Yosemite's [Activities](http://www.yosemitepark.com/Activities.aspx) page for an exhaustive list of things to do in the park! 
