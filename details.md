@@ -29,7 +29,7 @@ Yosemite's National Park status prevents us from setting aside a block of rooms 
 
 * The National Park Service collects an entrance [fee](http://www.nps.gov/yose/planyourvisit/fees.htm) per vehicle, which is good for seven days.
 
-* Don't leave any food in your vehicle -- black bears are part of Yosemite's striking biological diversity!
+* Don't leave any food in your vehicle -- black bears are part of Yosemite's spectacular biological diversity!
 
 ### Airport
 
