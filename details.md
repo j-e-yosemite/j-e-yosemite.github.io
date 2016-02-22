@@ -56,11 +56,11 @@ The reception ends at 10:00 pm -- don't miss the last shuttle if you plan on par
 
 ## [Childcare](#Wunderkind)
 
-Due to the very limited size of our venue, we regret that we can't invite children to our ceremony or reception. Please let us [know](mailto:{{ site.email }}) if you'd like us to help set up childcare for your children!
+Due to the very limited size of our venue, we regret that we can't invite children to our ceremony or reception. Please [let us know](mailto:{{ site.email }}) if you'd like us to help set up childcare for your children!
 
 ## [Things to do](#Sehen)
 
-Yosemite's website has many resources for [planning your visit](http://www.yosemitepark.com/plan-your-visit.aspx). We've highlighted a few specific activities below!
+Yosemite's website is an excellent resource for [planning your visit](http://www.yosemitepark.com/plan-your-visit.aspx). We've highlighted a few specific things to do below!
 
 ### Badger Pass 
 
