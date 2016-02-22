@@ -54,19 +54,19 @@ Due to the very limited size of our venue, we regret that we can't invite childr
 
 ### Badger Pass 
 
-[Badger Pass](http://www.yosemitepark.com/BadgerPass.aspx) is California's oldest ski resort, and well worth visiting! They offer several [winter packages and deals](http://www.yosemitepark.com/winter-package-deals.aspx?webSyncID=8a12c02a-37cd-2e0e-00c0-e8248e7c7269&sessionGUID=703b9a98-9ddd-b278-9a07-998794698e00) to help you make the most of your time in Yosemite! 
+[Badger Pass](http://www.yosemitepark.com/BadgerPass.aspx) is California's oldest ski resort, and well worth visiting! They offer several [winter packages and deals](http://www.yosemitepark.com/winter-package-deals.aspx?webSyncID=8a12c02a-37cd-2e0e-00c0-e8248e7c7269&sessionGUID=703b9a98-9ddd-b278-9a07-998794698e00) to help you make the most of your time in Yosemite.
 
 ### Curry Village Ice Skating Rink
 
-The [Curry Village Ice Skating Rink](http://www.yosemitepark.com/ice-skating.aspx) is another excellent way to take in the winter beauty of Yosemite!
+The [Curry Village Ice Skating Rink](http://www.yosemitepark.com/ice-skating.aspx) is another excellent way to take in the winter beauty of Yosemite.
 
 ### Yosemite Valley Floor tour
 
-A [Valley Floor bus tour](http://www.yosemitepark.com/valley-floor-tour.aspx) is a great way to see the famous sites of Yosemite Valley!
+[Valley Floor bus tours](http://www.yosemitepark.com/valley-floor-tour.aspx) are available year-round to introduce you to the famous sites in Yosemite Valley.
 
 ### Nature and history programs
 
-[Nature, history, and ranger-led programs](http://www.yosemitepark.com/nature-history-programs.aspx) are available to teach you more about the natural history of this stiking place! 
+[Nature, history, and ranger-led programs](http://www.yosemitepark.com/nature-history-programs.aspx) are designed to teach you more about the natural history of this stiking place. 
 
 ### Other activities
 
