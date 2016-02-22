@@ -66,7 +66,7 @@ The [Curry Village Ice Skating Rink](http://www.yosemitepark.com/ice-skating.asp
 
 ### Nature and history programs
 
-[Nature, history, and ranger-led programs](http://www.yosemitepark.com/nature-history-programs.aspx) are designed to teach you more about the natural history of this stiking place. 
+To learn more about the natural history of this striking place, take one of the park's [nature, history, and ranger-led programs](http://www.yosemitepark.com/nature-history-programs.aspx).
 
 ### Other activities
 
