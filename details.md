@@ -62,7 +62,11 @@ The [Curry Village Ice Skating Rink](http://www.yosemitepark.com/ice-skating.asp
 
 ### Yosemite Valley Floor tour
 
-Yosemite offers a [Valley Floor bus tour](http://www.yosemitepark.com/valley-floor-tour.aspx) to introduce visitors to the most famous sites in Yosemite Valley.
+A [Valley Floor bus tour](http://www.yosemitepark.com/valley-floor-tour.aspx) is a great way to see the famous sites of Yosemite Valley!
+
+### Nature and history programs
+
+[Nature, history, and ranger-led programs](http://www.yosemitepark.com/nature-history-programs.aspx) are available to teach you more about the natural history of this stiking place! 
 
 ### Other activities
 
