@@ -6,7 +6,7 @@ permalink: /Beiwerk/
 
 ## [Accommodations](#Unterkunft)
 
-Yosemite's National Park status prevents us from setting aside a block of rooms for our wedding. Although February is the low season for tourism, we still would recommend deciding your accommodations soon -- we want to be sure you're there to celebrate with us!
+Yosemite's National Park status prevents us from setting aside a block of rooms for our wedding. Although February is the low season for tourism, we still would recommend deciding your accommodations soon -- we want to make sure you're there to celebrate with us!
 
 #### [The Ahwahnee Hotel](http://www.yosemitepark.com/the-ahwahnee.aspx)
 
@@ -29,7 +29,7 @@ Yosemite's National Park status prevents us from setting aside a block of rooms 
 
 * The National Park Service collects an entrance [fee](http://www.nps.gov/yose/planyourvisit/fees.htm) per vehicle, which is good for seven days.
 
-* Don't leave any food in your vehicle -- black bears are part of Yosemite's spectacular biological diversity!
+* Don't leave any food in your vehicle -- black bears are part of Yosemite's spectacular biodiversity!
 
 ### Airport
 
@@ -62,12 +62,12 @@ The [Curry Village Ice Skating Rink](http://www.yosemitepark.com/ice-skating.asp
 
 ### Yosemite Valley Floor tour
 
-[Valley Floor bus tours](http://www.yosemitepark.com/valley-floor-tour.aspx) are available year-round to show you to the famous sites of Yosemite Valley.
+[Valley Floor bus tours](http://www.yosemitepark.com/valley-floor-tour.aspx) are available year-round to take in the sights of Yosemite Valley.
 
 ### Nature and history programs
 
-To learn more about the natural history of this striking place, consider one of the park's [nature, history, and ranger-led programs](http://www.yosemitepark.com/nature-history-programs.aspx).
+The park provides [nature, history, and ranger-led programs](http://www.yosemitepark.com/nature-history-programs.aspx) to teach visitors more about the natural history of this striking place.
 
 ### Other activities
 
-Please see Yosemite's [Activities](http://www.yosemitepark.com/Activities.aspx) page for more ideas and inspiration!
+Please see Yosemite's [Activities](http://www.yosemitepark.com/Activities.aspx) page for an exhaustive list!
