@@ -60,7 +60,7 @@ Due to the very limited size of our venue, we regret that we can't invite childr
 
 ## [Things to do](#Sehen)
 
-The park offers great resources for [planning your visit](http://www.yosemitepark.com/plan-your-visit.aspx). We've highlighted a few specific activities below!
+Yosemite's website has many resources for [planning your visit](http://www.yosemitepark.com/plan-your-visit.aspx). We've highlighted a few specific activities below!
 
 ### Badger Pass 
 
