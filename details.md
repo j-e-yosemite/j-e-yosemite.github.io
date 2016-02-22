@@ -41,7 +41,7 @@ The closest airport is the Fresno Yosemite International Airport [(FAT)](http://
 
 ### Yosemite Valley Shuttle
 
-The free Valley [Shuttle](http://www.yosemitepark.com/Files/2015_Yosemite-ShuttleMap.pdf) makes stops at all Yosemite Valley destinations, including the Ahwahnee and Yosemite Lodge at the Falls. In the winter, the Valley Shuttle runs from 7:00 am to 10:00 pm every 30 minutes.
+The free [Valley Shuttle](http://www.yosemitepark.com/Files/2015_Yosemite-ShuttleMap.pdf) makes stops at all Yosemite Valley destinations, including the Ahwahnee and Yosemite Lodge at the Falls. In the winter, the Valley Shuttle runs from 7:00 am to 10:00 pm every 30 minutes.
 
 The reception ends at 10:00 pm -- don't miss the last shuttle if you plan on partying with us all night!
 
