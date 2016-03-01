@@ -37,11 +37,7 @@ The closest airport is the Fresno Yosemite International Airport [(FAT)](http://
 
 ### Directions
 
-http://www.yosemitepark.com/yosemite-directions.aspx
-
-### Public transportation
-
-http://www.yosemitepark.com/public-transportation.aspx
+Whether you're traveling by [car, train, bus, or plane](http://www.yosemitepark.com/yosemite-directions.aspx), we can't wait to see you! [Public transportation](http://www.yosemitepark.com/public-transportation.aspx) connects Yosemite to San Francisco, San Jose, Oakland, Fresno and Merced.
 
 ### Parking
 
@@ -64,7 +60,7 @@ Yosemite's website is an excellent resource for [planning your visit](http://www
 
 ### Badger Pass 
 
-[Badger Pass](http://www.yosemitepark.com/BadgerPass.aspx) is California's oldest ski resort -- and where Emily learned to ski! They offer several [winter packages and deals](http://www.yosemitepark.com/winter-package-deals.aspx?webSyncID=8a12c02a-37cd-2e0e-00c0-e8248e7c7269&sessionGUID=703b9a98-9ddd-b278-9a07-998794698e00) to help you make the most of your time in Yosemite.
+[Badger Pass](http://www.yosemitepark.com/BadgerPass.aspx) is California's oldest ski resort -- and where Emily learned to ski! They offer several [winter packages and deals](http://www.yosemitepark.com/winter-package-deals.aspx?webSyncID=8a12c02a-37cd-2e0e-00c0-e8248e7c7269&sessionGUID=703b9a98-9ddd-b278-9a07-998794698e00) to help you make the most of your time in Yosemite. A free [shuttle](http://www.yosemitepark.com/badger-shuttle-schedule.aspx) to Badger Pass is available!
 
 ### Curry Village Ice Skating Rink
 
