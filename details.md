@@ -49,7 +49,7 @@ http://www.yosemitepark.com/public-transportation.aspx
 
 ### Yosemite Valley Shuttle
 
-The free [Valley Shuttle](http://www.yosemitepark.com/Files/2015_Yosemite-ShuttleMap.pdf) makes stops at all Yosemite Valley destinations, including the Ahwahnee and Yosemite Lodge at the Falls. In the winter, the shuttle runs from 7:00 am to 10:00 pm every 30 minutes.
+The free [Valley Shuttle](http://www.yosemitepark.com/Files/2015_Yosemite-ShuttleMap.pdf) makes stops at all Yosemite Valley destinations, including the Ahwahnee Hotel and Yosemite Lodge at the Falls. In the winter, the shuttle runs from 7:00 am to 10:00 pm every 30 minutes.
 
 The reception ends at 10:00 pm -- don't miss the last shuttle if you plan on partying with us all night!
 
@@ -60,23 +60,27 @@ Due to the very limited size of our venue, we regret that we can't invite childr
 
 ## [Things to do](#Sehen)
 
-Yosemite's website is an excellent resource for [planning your visit](http://www.yosemitepark.com/plan-your-visit.aspx). We've highlighted a few specific things to do below!
+Yosemite's website is an excellent resource for [planning your visit](http://www.yosemitepark.com/plan-your-visit.aspx). A few highlights below!
 
 ### Badger Pass 
 
-[Badger Pass](http://www.yosemitepark.com/BadgerPass.aspx) is California's oldest ski resort, and well worth visiting! They offer several [winter packages and deals](http://www.yosemitepark.com/winter-package-deals.aspx?webSyncID=8a12c02a-37cd-2e0e-00c0-e8248e7c7269&sessionGUID=703b9a98-9ddd-b278-9a07-998794698e00) to help you make the most of your time in Yosemite.
+[Badger Pass](http://www.yosemitepark.com/BadgerPass.aspx) is California's oldest ski resort -- and where Emily learned to ski! They offer several [winter packages and deals](http://www.yosemitepark.com/winter-package-deals.aspx?webSyncID=8a12c02a-37cd-2e0e-00c0-e8248e7c7269&sessionGUID=703b9a98-9ddd-b278-9a07-998794698e00) to help you make the most of your time in Yosemite.
 
 ### Curry Village Ice Skating Rink
 
-The [Curry Village Ice Skating Rink](http://www.yosemitepark.com/ice-skating.aspx) is another way to immerse yourself in the winter beauty of Yosemite. It was originally built as part of a bid to host the 1932 Olympic Winter Games in Yosemite!
+The [Curry Village Ice Skating Rink](http://www.yosemitepark.com/ice-skating.aspx), originally built as part of a bid to host the 1932 Olympic Winter Games, is another way to immerse yourself in the winter beauty of Yosemite. 
 
 ### Yosemite Valley Floor tour
 
-[Valley Floor bus tours](http://www.yosemitepark.com/valley-floor-tour.aspx) are available year-round to take in the mains sights of Yosemite Valley.
+[Valley Floor bus tours](http://www.yosemitepark.com/valley-floor-tour.aspx) are available year-round to take in the sights of glacier-carved Yosemite Valley. 
+
+### Hike!
+
+Spend some time in the quiet of Yosemite in winter snow. Hiking information is available [here](http://www.yosemitepark.com/hiking-camping.aspx).
 
 ### Nature and history programs
 
-The park provides [nature, history, and ranger-led programs](http://www.yosemitepark.com/nature-history-programs.aspx) to teach visitors more about the natural history of this striking place.
+The park provides [nature, history, and ranger-led programs](http://www.yosemitepark.com/nature-history-programs.aspx) on the natural history of this striking place.
 
 ### Other activities
 
