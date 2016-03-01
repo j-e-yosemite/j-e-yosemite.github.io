@@ -7,4 +7,34 @@
      -moz-background-size: cover;
      -o-background-size: cover;
      background-size: cover;
+    body {
+         background-color: transparent;
+         color: $text-color-light;
+    }
+    .site-footer {
+        p {
+            color: $text-color-light;
+        } 
+    }
+    .site-header {
+        .site-nav .page-link {
+            color: $text-color-light;
+        }
+         .site-title {
+            color: $text-color-light;
+        }
+    }
+    a {
+        color: $brand-color-light;
+
+        &:visited {
+            color: darken($brand-color-light, 15%);
+        }
+        &:hover {
+            color: $text-color-light;
+        }
+    }
  }
+
+ 
+
