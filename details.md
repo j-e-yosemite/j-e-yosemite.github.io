@@ -37,7 +37,7 @@ The closest airport is the Fresno Yosemite International Airport [(FAT)](http://
 
 ### Directions
 
-Whether you're traveling by [car, train, bus, or plane](http://www.yosemitepark.com/yosemite-directions.aspx), we're so excited to see you! [Public transportation](http://www.yosemitepark.com/public-transportation.aspx) connects Yosemite to San Francisco, San Jose, Oakland, Fresno, and Merced.
+Whether you're traveling by [car, train, bus, or plane](http://www.yosemitepark.com/yosemite-directions.aspx), we can't wait to see you! [Public transportation](http://www.yosemitepark.com/public-transportation.aspx) connects Yosemite to San Francisco, San Jose, Oakland, Fresno, and Merced.
 
 ### Parking
 
@@ -64,7 +64,7 @@ Yosemite's website is an excellent resource for [planning your visit](http://www
 
 ### Curry Village Ice Skating Rink
 
-The [Curry Village Ice Skating Rink](http://www.yosemitepark.com/ice-skating.aspx), originally built as part of a bid to host the 1932 Olympic Winter Games, is another way to immerse yourself in the winter beauty of Yosemite. 
+The [Curry Village Ice Skating Rink](http://www.yosemitepark.com/ice-skating.aspx), originally built as part of a bid to host the 1932 Olympic Winter Games, is another way to immerse yourself in the winter splendor of Yosemite. 
 
 ### Yosemite Valley Floor tour
 
