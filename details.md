@@ -60,7 +60,7 @@ Yosemite's website is an excellent resource for [planning your visit](http://www
 
 ### Badger Pass 
 
-[Badger Pass](http://www.yosemitepark.com/BadgerPass.aspx) is California's oldest ski resort, and well worth visiting. It's where Emily learned to ski! They offer several [winter packages and deals](http://www.yosemitepark.com/winter-package-deals.aspx?webSyncID=8a12c02a-37cd-2e0e-00c0-e8248e7c7269&sessionGUID=703b9a98-9ddd-b278-9a07-998794698e00) to help you make the most of your time in Yosemite. A free [shuttle](http://www.yosemitepark.com/badger-shuttle-schedule.aspx) from Yosemite Valley makes getting there easy. 
+[Badger Pass](http://www.yosemitepark.com/BadgerPass.aspx) is California's oldest ski resort, and well worth visiting. It's where Emily learned to ski! They offer several [winter packages and deals](http://www.yosemitepark.com/winter-package-deals.aspx?webSyncID=8a12c02a-37cd-2e0e-00c0-e8248e7c7269&sessionGUID=703b9a98-9ddd-b278-9a07-998794698e00) to make the most of your time in Yosemite. The free [Badger Pass Shuttle](http://www.yosemitepark.com/badger-shuttle-schedule.aspx) gets you there from the Valley! 
 
 ### Curry Village Ice Skating Rink
 
