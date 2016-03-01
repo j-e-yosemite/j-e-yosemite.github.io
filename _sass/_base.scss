@@ -24,9 +24,13 @@ body {
     font-feature-settings: "kern" 1;
     font-kerning: normal;
     margin: 0 0 $footer-height;
+    padding-bottom: $spacing-unit;
 }
 
-
+html {
+    min-height: 100%;
+    position: relative;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
