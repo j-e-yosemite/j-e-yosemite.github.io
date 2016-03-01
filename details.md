@@ -25,7 +25,7 @@ Yosemite's National Park status prevents us from setting aside a block of rooms 
 ## [Travel and transport](#Transport)
 
 ### Notable details
-* By law, tire chains must be carried in vehicles from October - April. The park's great resource on [winter driving](http://www.yosemitepark.com/yosemite-winter-driving.aspx) provides more information. For the latest updates on park conditions, call 209-372-0209.
+* By law, tire chains must be carried in vehicles from October - April. The park's resource on [winter driving](http://www.yosemitepark.com/yosemite-winter-driving.aspx) provides more information. For the latest updates on park conditions, call 209-372-0209.
 
 * The National Park Service collects an entrance [fee](http://www.nps.gov/yose/planyourvisit/fees.htm) per vehicle, which is good for seven days.
 
@@ -37,7 +37,7 @@ The closest airport is the Fresno Yosemite International Airport [(FAT)](http://
 
 ### Directions
 
-Whether you're traveling by [car, train, bus, or plane](http://www.yosemitepark.com/yosemite-directions.aspx), we can't wait to see you! [Public transportation](http://www.yosemitepark.com/public-transportation.aspx) connects Yosemite to San Francisco, San Jose, Oakland, Fresno and Merced.
+Whether you're traveling by [car, train, bus, or plane](http://www.yosemitepark.com/yosemite-directions.aspx), we can't wait to see you! [Public transportation](http://www.yosemitepark.com/public-transportation.aspx) connects Yosemite to San Francisco, San Jose, Oakland, Fresno, and Merced.
 
 ### Parking
 
@@ -60,7 +60,7 @@ Yosemite's website is an excellent resource for [planning your visit](http://www
 
 ### Badger Pass 
 
-[Badger Pass](http://www.yosemitepark.com/BadgerPass.aspx) is California's oldest ski resort -- and where Emily learned to ski! They offer several [winter packages and deals](http://www.yosemitepark.com/winter-package-deals.aspx?webSyncID=8a12c02a-37cd-2e0e-00c0-e8248e7c7269&sessionGUID=703b9a98-9ddd-b278-9a07-998794698e00) to help you make the most of your time in Yosemite. A free [shuttle](http://www.yosemitepark.com/badger-shuttle-schedule.aspx) to Badger Pass is available!
+[Badger Pass](http://www.yosemitepark.com/BadgerPass.aspx) is California's oldest ski resort, and well worth visiting. It's where Emily learned to ski! They offer several [winter packages and deals](http://www.yosemitepark.com/winter-package-deals.aspx?webSyncID=8a12c02a-37cd-2e0e-00c0-e8248e7c7269&sessionGUID=703b9a98-9ddd-b278-9a07-998794698e00) to help you make the most of your time in Yosemite. A free [shuttle](http://www.yosemitepark.com/badger-shuttle-schedule.aspx) from Yosemite Valley makes getting there easy. 
 
 ### Curry Village Ice Skating Rink
 
