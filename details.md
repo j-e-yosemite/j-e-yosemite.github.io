@@ -68,11 +68,11 @@ Yosemite's website is an excellent resource for [planning your visit](http://www
 
 ### Curry Village Ice Skating Rink
 
-The [Curry Village Ice Skating Rink](http://www.yosemitepark.com/ice-skating.aspx) is another excellent way to take in the winter beauty of Yosemite.
+The [Curry Village Ice Skating Rink](http://www.yosemitepark.com/ice-skating.aspx) is another way to immerse yourself in the winter beauty of Yosemite. It was originally built as part of a bid to host the 1932 Olympic Winter Games in Yosemite!
 
 ### Yosemite Valley Floor tour
 
-[Valley Floor bus tours](http://www.yosemitepark.com/valley-floor-tour.aspx) are available year-round to take in the sights of Yosemite Valley.
+[Valley Floor bus tours](http://www.yosemitepark.com/valley-floor-tour.aspx) are available year-round to take in the mains sights of Yosemite Valley.
 
 ### Nature and history programs
 
