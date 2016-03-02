@@ -70,11 +70,11 @@ Due to the very limited size of our venue, we regret that we can't invite childr
 
 #### Badger Pass Ski Area
 
-[Badger Pass](http://www.travelyosemite.com/winter/yosemite-ski-snowboard-area/) is California's oldest ski resort, and well worth visiting. It's where Emily learned to ski! 
+[Badger Pass](http://www.travelyosemite.com/winter/yosemite-ski-snowboard-area/) is California's oldest ski resort, and where Emily (and Sarah and Ann!) learned to ski! It's well worth visiting.
 
 #### Curry Village Ice Skating Rink
 
-The [Curry Village Ice Skating Rink](http://www.travelyosemite.com/winter/half-dome-village-ice-skating-rink/), originally built as part of a bid to host the 1932 Olympic Winter Games, is another way to immerse yourself in the winter beauty of Yosemite. 
+The [Curry Village Ice Skating Rink](http://www.travelyosemite.com/winter/half-dome-village-ice-skating-rink/), originally built as part of a bid to host the 1932 Olympic Winter Games, is another way to immerse yourself in the beauty of Yosemite in winter. 
 
 #### Yosemite Valley Floor bus tour
 
