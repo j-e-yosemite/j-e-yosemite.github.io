@@ -4,14 +4,14 @@ title: Details
 permalink: /Beiwerk/
 ---
 
-## Disclaimer
+## Disclaimer!
 
 As of March 1, 2016, Aramark has succeeded Delaware North as the concessioner for Yosemite National Park. Due to a [trademark dispute](http://www.nps.gov/yose/learn/news/yosemite-national-park-to-change-historic-property-names.htm), Aramark has changed the names of many iconic Yosemite destinations. In protest, we'll continue to use the names we know Yosemite by. To avoid confusion, however, note that:
 
-* Yosemite Lodge at the Falls = Yosemite Valley Lodge
-* The Ahwahnee Hotel = The Majestic Yosemite Hotel
-* Curry Village = Half Dome Village
-* Badger Pass Ski Area = Yosemite Ski & Snowboard Area
+* Yosemite Lodge at the Falls is now **Yosemite Valley Lodge**
+* The Ahwahnee Hotel is now **The Majestic Yosemite Hotel**
+* Curry Village is now **Half Dome Village**
+* Badger Pass Ski Area is now **Yosemite Ski & Snowboard Area**
 
 ## Accommodations
 
@@ -65,9 +65,9 @@ Due to the very limited size of our venue, we regret that we can't invite childr
 
 ## Things to do
 
-#####"Nature chose for a tool, not the earthquake or lightning to rend and split asunder, not the stormy torrent or eroding rain, but the tender snow-flowers noiselessly falling through unnumbered centuries." -- John Muir, on Yosemite's glacial provenance
+####"Nature chose for a tool, not the earthquake or lightning to rend and split asunder, not the stormy torrent or eroding rain, but the tender snow-flowers noiselessly falling through unnumbered centuries." -- John Muir, on Yosemite's glacial provenance
 
-[Winter](http://www.nps.gov/yose/planyourvisit/winter.htm) is our favorite time of year to visit Yosemite, when the crowds give way to Muir's snow-flowers carpeting the Valley. [Yosemite's website](http://www.travelyosemite.com/) is an excellent resource for planning your visit -- a few highlights below!
+[Winter](http://www.nps.gov/yose/planyourvisit/winter.htm) is our favorite time of year to visit Yosemite, when the crowds give way to Muir's snow-flowers carpeting the Valley. Yosemite's [website](http://www.travelyosemite.com/) is an excellent resource for planning your visit -- a few highlights below!
 
 ### Badger Pass 
 
