@@ -8,10 +8,10 @@ permalink: /Beiwerk/
 
 As of March 1, 2016, Aramark has succeeded Delaware North as the concessioner for Yosemite National Park. Due to a [trademark dispute](http://www.nps.gov/yose/learn/news/yosemite-national-park-to-change-historic-property-names.htm), Aramark has changed the names of many iconic Yosemite destinations. In protest, we'll continue to use the names we know Yosemite by. To avoid confusion, however, note that:
 
-* Yosemite Lodge at the Falls is now **Yosemite Valley Lodge**
 * The Ahwahnee Hotel is now **The Majestic Yosemite Hotel**
-* Curry Village is now **Half Dome Village**
+* Yosemite Lodge at the Falls is now **Yosemite Valley Lodge**
 * Badger Pass Ski Area is now **Yosemite Ski & Snowboard Area**
+* Curry Village is now **Half Dome Village**
 
 ## Accommodations
 
@@ -35,7 +35,7 @@ Yosemite's National Park status prevents us from setting aside a block of rooms 
 
 #### Notable details
 
-* By law, tire chains must be carried in vehicles from October - April. The park's resource on [winter driving](http://www.travelyosemite.com/winter/winter-travel-conditions/) provides more information. For the latest updates on park road conditions, call 209-372-0200 or go [here](http://www.nps.gov/yose/planyourvisit/conditions.htm).
+* By law, tire chains must be carried in vehicles from October - April. The park's resource on [winter driving](http://www.travelyosemite.com/winter/winter-travel-conditions/) provides more information. For the latest updates on road conditions, call 209-372-0200 or go [here](http://www.nps.gov/yose/planyourvisit/conditions.htm).
 * The National Park Service collects an entrance [fee](http://www.nps.gov/yose/planyourvisit/fees.htm) per vehicle, which is good for seven days.
 * Don't leave any food in your vehicle -- black bears are part of Yosemite's spectacular biodiversity!
 
