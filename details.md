@@ -33,26 +33,26 @@ Yosemite's National Park status prevents us from setting aside a block of rooms 
 
 ## Travel and transport
 
-### Notable details
+#### Notable details
 * By law, tire chains must be carried in vehicles from October - April. The park's resource on [winter driving](http://www.travelyosemite.com/winter/winter-travel-conditions/) provides more information. For the latest updates on park conditions, call 209-372-0209.
 
 * The National Park Service collects an entrance [fee](http://www.nps.gov/yose/planyourvisit/fees.htm) per vehicle, which is good for seven days.
 
 * Don't leave any food in your vehicle -- black bears are part of Yosemite's spectacular biodiversity!
 
-### Airport
+#### Airport
 
 The closest airport is the Fresno Yosemite International Airport [(FAT)](http://www.flyfresno.com/). The distance from FAT to the Ahwahnee is 96 miles.
 
-### Directions
+#### Directions
 
 Whether you're traveling by [car, train, bus, or plane](http://www.travelyosemite.com/discover/getting-here/), we can't wait to see you! [Public transportation](http://www.yosemitepark.com/Files/Airport_Public_Transit_Web_Flyer_1.pdf) connects Yosemite to San Francisco, San Jose, Oakland, Fresno, and Merced.
 
-### Parking
+#### Parking
 
  All parking in Yosemite Valley is free of charge. At the Ahwahnee, valet parking is complimentary.
 
-### Yosemite Valley Shuttle
+#### Yosemite Valley Shuttle
 
 The free [Valley Shuttle](http://www.nps.gov/yose/planyourvisit/upload/valleyshuttle.pdf) makes stops at all Yosemite Valley destinations, including the Ahwahnee Hotel and Yosemite Lodge at the Falls. In the winter, the shuttle runs from 7:00 am to 10:00 pm every 30 minutes.
 
@@ -69,26 +69,26 @@ Due to the very limited size of our venue, we regret that we can't invite childr
 
 [Winter](http://www.nps.gov/yose/planyourvisit/winter.htm) is our favorite time of year to visit Yosemite, when the crowds give way to Muir's snow-flowers carpeting the Valley. Yosemite's [website](http://www.travelyosemite.com/) is an excellent resource for planning your visit -- a few highlights below!
 
-### Badger Pass 
+#### Badger Pass Ski Area
 
 [Badger Pass](http://www.travelyosemite.com/winter/yosemite-ski-snowboard-area/) is California's oldest ski resort, and well worth visiting. It's where Emily learned to ski! 
 
-### Curry Village Ice Skating Rink
+#### Curry Village Ice Skating Rink
 
 The [Curry Village Ice Skating Rink](http://www.travelyosemite.com/winter/half-dome-village-ice-skating-rink/), originally built as part of a bid to host the 1932 Olympic Winter Games, is another way to immerse yourself in the winter beauty of Yosemite. 
 
-### Yosemite Valley Floor bus tour
+#### Yosemite Valley Floor bus tour
 
 [Valley Floor bus tours](http://www.travelyosemite.com/things-to-do/guided-bus-tours/) are available year-round to take in the sights of glacier-carved Yosemite Valley. 
 
-### Hike!
+#### Hike!
 
 Spend some time in the quiet of Yosemite in winter snow. Hiking information is available [here](http://www.travelyosemite.com/things-to-do/hiking/).
 
-### Nature and history programs
+#### Nature and history programs
 
 The park provides [nature, history, and ranger-led programs](http://www.travelyosemite.com/things-to-do/ranger-nature-programs/) on the natural history of this striking place.
 
-### Other activities
+#### Other activities
 
 Please see Yosemite's [Activities](http://www.travelyosemite.com/things-to-do/experience-yosemite-national-park/) page for an exhaustive list!
