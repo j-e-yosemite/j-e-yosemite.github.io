@@ -35,7 +35,7 @@ Yosemite's National Park status prevents us from setting aside a block of rooms 
 
 #### Notable details
 
-* By law, tire chains must be carried in vehicles from October - April. The park's resource on [winter driving](http://www.travelyosemite.com/winter/winter-travel-conditions/) provides more information. For the latest updates on park conditions, call 209-372-0209.
+* By law, tire chains must be carried in vehicles from October - April. The park's resource on [winter driving](http://www.travelyosemite.com/winter/winter-travel-conditions/) provides more information. For the latest updates on park road conditions, call 209-372-0200 or go [here](http://www.nps.gov/yose/planyourvisit/conditions.htm).
 * The National Park Service collects an entrance [fee](http://www.nps.gov/yose/planyourvisit/fees.htm) per vehicle, which is good for seven days.
 * Don't leave any food in your vehicle -- black bears are part of Yosemite's spectacular biodiversity!
 
