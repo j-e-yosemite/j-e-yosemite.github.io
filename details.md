@@ -34,19 +34,18 @@ Yosemite's National Park status prevents us from setting aside a block of rooms 
 ## Travel and transport
 
 #### Notable details
+
 * By law, tire chains must be carried in vehicles from October - April. The park's resource on [winter driving](http://www.travelyosemite.com/winter/winter-travel-conditions/) provides more information. For the latest updates on park conditions, call 209-372-0209.
-
 * The National Park Service collects an entrance [fee](http://www.nps.gov/yose/planyourvisit/fees.htm) per vehicle, which is good for seven days.
-
 * Don't leave any food in your vehicle -- black bears are part of Yosemite's spectacular biodiversity!
-
-#### Airport
-
-The closest airport is the Fresno Yosemite International Airport [(FAT)](http://www.flyfresno.com/). The distance from FAT to the Ahwahnee is 96 miles.
 
 #### Directions
 
 Whether you're traveling by [car, train, bus, or plane](http://www.travelyosemite.com/discover/getting-here/), we can't wait to see you! [Public transportation](http://www.yosemitepark.com/Files/Airport_Public_Transit_Web_Flyer_1.pdf) connects Yosemite to San Francisco, San Jose, Oakland, Fresno, and Merced.
+
+#### Airport
+
+The closest airport is the Fresno Yosemite International Airport [(FAT)](http://www.flyfresno.com/). The distance from FAT to the Ahwahnee is 96 miles.
 
 #### Parking
 
