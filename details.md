@@ -4,28 +4,32 @@ title: Details
 permalink: /Beiwerk/
 ---
 
-## [Accommodations](#Unterkunft)
+## Disclaimer
+
+As of March 1, 2016, Aramark has succeeded Delaware North as the 
+
+## Accommodations
 
 Yosemite's National Park status prevents us from setting aside a block of rooms for our wedding. Although February is the low season for tourism, we still would recommend deciding your accommodations soon -- we want you there to celebrate with us!
 
-#### [The Ahwahnee Hotel](http://www.yosemitepark.com/the-ahwahnee.aspx)
+#### [The Ahwahnee Hotel](http://www.travelyosemite.com/lodging/the-majestic-yosemite-hotel/)
 
 1 Ahwahnee Drive, Yosemite National Park, CA 95389
 
-[801-559-4884](tel:+18015594884)
+[888-413-8869](tel:+18884138869)
 
 
-#### [Yosemite Lodge at the Falls](http://www.yosemitepark.com/yosemite-lodge.aspx)
+#### [Yosemite Lodge at the Falls](http://www.travelyosemite.com/lodging/yosemite-valley-lodge/)
 
 9006 Yosemite Lodge Drive, Yosemite National Park, CA 95389
 
-[801-559-4884](tel:+18015594884)
+[888-413-8869](tel:+18884138869)
 
 
-## [Travel and transport](#Transport)
+## Travel and transport
 
 ### Notable details
-* By law, tire chains must be carried in vehicles from October - April. The park's resource on [winter driving](http://www.yosemitepark.com/yosemite-winter-driving.aspx) provides more information. For the latest updates on park conditions, call 209-372-0209.
+* By law, tire chains must be carried in vehicles from October - April. The park's resource on [winter driving](http://www.travelyosemite.com/winter/winter-travel-conditions/) provides more information. For the latest updates on park conditions, call 209-372-0209.
 
 * The National Park Service collects an entrance [fee](http://www.nps.gov/yose/planyourvisit/fees.htm) per vehicle, which is good for seven days.
 
@@ -37,7 +41,7 @@ The closest airport is the Fresno Yosemite International Airport [(FAT)](http://
 
 ### Directions
 
-Whether you're traveling by [car, train, bus, or plane](http://www.yosemitepark.com/yosemite-directions.aspx), we can't wait to see you! [Public transportation](http://www.yosemitepark.com/public-transportation.aspx) connects Yosemite to San Francisco, San Jose, Oakland, Fresno, and Merced.
+Whether you're traveling by [car, train, bus, or plane](http://www.travelyosemite.com/discover/getting-here/), we can't wait to see you! [Public transportation](http://www.yosemitepark.com/Files/Airport_Public_Transit_Web_Flyer_1.pdf) connects Yosemite to San Francisco, San Jose, Oakland, Fresno, and Merced.
 
 ### Parking
 
@@ -45,39 +49,41 @@ Whether you're traveling by [car, train, bus, or plane](http://www.yosemitepark.
 
 ### Yosemite Valley Shuttle
 
-The free [Valley Shuttle](http://www.yosemitepark.com/Files/2015_Yosemite-ShuttleMap.pdf) makes stops at all Yosemite Valley destinations, including the Ahwahnee Hotel and Yosemite Lodge at the Falls. In the winter, the shuttle runs from 7:00 am to 10:00 pm every 30 minutes.
+The free [Valley Shuttle](http://www.nps.gov/yose/planyourvisit/upload/valleyshuttle.pdf) makes stops at all Yosemite Valley destinations, including the Ahwahnee Hotel and Yosemite Lodge at the Falls. In the winter, the shuttle runs from 7:00 am to 10:00 pm every 30 minutes.
 
 The reception ends at 10:00 pm -- don't miss the last shuttle if you're going to party with us all night!
 
 
-## [Childcare](#Wunderkind)
+## Childcare
 
 Due to the very limited size of our venue, we regret that we can't invite children to our ceremony or reception. Please [let us know](mailto:{{ site.email }}) if you'd like us to help set up childcare for your children!
 
-## [Things to do](#Sehen)
+## Things to do
 
-Yosemite's website is an excellent resource for [planning your visit](http://www.yosemitepark.com/plan-your-visit.aspx). A few highlights below!
+"Nature chose for a tool, not the earthquake or lightning to rend and split asunder, not the stormy torrent or eroding rain, but the tender snow-flowers noiselessly falling through unnumbered centuries." -- John Muir, on Yosemite's glacial provenance
+
+[Winter](http://www.nps.gov/yose/planyourvisit/winter.htm) is our favorite time of year to visit Yosemite, when the crowds give way to Muir's snow-flowers carpeting the Valley. Yosemite's [website](http://www.travelyosemite.com/) is an excellent resource for planning your visit -- a few highlights below!
 
 ### Badger Pass 
 
-[Badger Pass](http://www.yosemitepark.com/BadgerPass.aspx) is California's oldest ski resort, and well worth visiting. It's where Emily learned to ski! They offer several [winter packages and deals](http://www.yosemitepark.com/winter-package-deals.aspx?webSyncID=8a12c02a-37cd-2e0e-00c0-e8248e7c7269&sessionGUID=703b9a98-9ddd-b278-9a07-998794698e00) to make the most of your time in Yosemite. A free [Badger Pass Shuttle](http://www.yosemitepark.com/badger-shuttle-schedule.aspx) takes you there from the Valley.
+[Badger Pass](http://www.travelyosemite.com/winter/yosemite-ski-snowboard-area/) is California's oldest ski resort, and well worth visiting. It's where Emily learned to ski! 
 
 ### Curry Village Ice Skating Rink
 
-The [Curry Village Ice Skating Rink](http://www.yosemitepark.com/ice-skating.aspx), originally built as part of a bid to host the 1932 Olympic Winter Games, is another way to immerse yourself in the winter beauty of Yosemite. 
+The [Curry Village Ice Skating Rink](http://www.travelyosemite.com/winter/half-dome-village-ice-skating-rink/), originally built as part of a bid to host the 1932 Olympic Winter Games, is another way to immerse yourself in the winter beauty of Yosemite. 
 
 ### Yosemite Valley Floor tour
 
-[Valley Floor bus tours](http://www.yosemitepark.com/valley-floor-tour.aspx) are available year-round to take in the sights of glacier-carved Yosemite Valley. 
+[Valley Floor bus tours](http://www.travelyosemite.com/things-to-do/guided-bus-tours/) are available year-round to take in the sights of glacier-carved Yosemite Valley. 
 
 ### Hike!
 
-Spend some time in the quiet of Yosemite in winter snow. Hiking information is available [here](http://www.yosemitepark.com/hiking-camping.aspx).
+Spend some time in the quiet of Yosemite in winter snow. Hiking information is available [here](http://www.travelyosemite.com/things-to-do/hiking/).
 
 ### Nature and history programs
 
-The park provides [nature, history, and ranger-led programs](http://www.yosemitepark.com/nature-history-programs.aspx) on the natural history of this striking place.
+The park provides [nature, history, and ranger-led programs](http://www.travelyosemite.com/things-to-do/ranger-nature-programs/) on the natural history of this striking place.
 
 ### Other activities
 
-Please see Yosemite's [Activities](http://www.yosemitepark.com/Activities.aspx) page for an exhaustive list!
+Please see Yosemite's [Things to Do](http://www.travelyosemite.com/things-to-do/experience-yosemite-national-park/) page for an exhaustive list!
