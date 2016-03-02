@@ -6,7 +6,7 @@ permalink: /Beiwerk/
 
 ## [Accommodations](#Unterkunft)
 
-Yosemite's National Park status prevents us from setting aside a block of rooms for our wedding. Although February is the low season for tourism, we still would recommend deciding your accommodations soon -- we want to make sure you're there to celebrate with us!
+Yosemite's National Park status prevents us from setting aside a block of rooms for our wedding. Although February is the low season for tourism, we still would recommend deciding your accommodations soon -- we want you there to celebrate with us!
 
 #### [The Ahwahnee Hotel](http://www.yosemitepark.com/the-ahwahnee.aspx)
 
@@ -47,7 +47,7 @@ Whether you're traveling by [car, train, bus, or plane](http://www.yosemitepark.
 
 The free [Valley Shuttle](http://www.yosemitepark.com/Files/2015_Yosemite-ShuttleMap.pdf) makes stops at all Yosemite Valley destinations, including the Ahwahnee Hotel and Yosemite Lodge at the Falls. In the winter, the shuttle runs from 7:00 am to 10:00 pm every 30 minutes.
 
-The reception ends at 10:00 pm -- don't miss the last shuttle if you plan on partying with us all night!
+The reception ends at 10:00 pm -- don't miss the last shuttle if you're going to party with us all night!
 
 
 ## [Childcare](#Wunderkind)
@@ -64,7 +64,7 @@ Yosemite's website is an excellent resource for [planning your visit](http://www
 
 ### Curry Village Ice Skating Rink
 
-The [Curry Village Ice Skating Rink](http://www.yosemitepark.com/ice-skating.aspx), originally built as part of a bid to host the 1932 Olympic Winter Games, is another way to immerse yourself in the winter splendor of Yosemite. 
+The [Curry Village Ice Skating Rink](http://www.yosemitepark.com/ice-skating.aspx), originally built as part of a bid to host the 1932 Olympic Winter Games, is another way to immerse yourself in the winter beauty of Yosemite. 
 
 ### Yosemite Valley Floor tour
 
