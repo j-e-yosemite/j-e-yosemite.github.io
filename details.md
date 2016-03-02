@@ -9,7 +9,7 @@ permalink: /Beiwerk/
 As of March 1, 2016, Aramark has succeeded Delaware North as the concessioner for Yosemite National Park. Due to a [trademark dispute](http://www.nps.gov/yose/learn/news/yosemite-national-park-to-change-historic-property-names.htm), Aramark has changed the names of many iconic Yosemite destinations. In protest, we'll continue to use the names we know Yosemite by. To avoid confusion, however, note that:
 
 * Yosemite Lodge at the Falls = Yosemite Valley Lodge
-* The Ahwahnee = The Majestic Yosemite Hotel
+* The Ahwahnee Hotel = The Majestic Yosemite Hotel
 * Curry Village = Half Dome Village
 * Badger Pass Ski Area = Yosemite Ski & Snowboard Area
 
@@ -65,9 +65,9 @@ Due to the very limited size of our venue, we regret that we can't invite childr
 
 ## Things to do
 
-####"Nature chose for a tool, not the earthquake or lightning to rend and split asunder, not the stormy torrent or eroding rain, but the tender snow-flowers noiselessly falling through unnumbered centuries." -- John Muir, on Yosemite's glacial provenance
+#####"Nature chose for a tool, not the earthquake or lightning to rend and split asunder, not the stormy torrent or eroding rain, but the tender snow-flowers noiselessly falling through unnumbered centuries." -- John Muir, on Yosemite's glacial provenance
 
-[Winter](http://www.nps.gov/yose/planyourvisit/winter.htm) is our favorite time of year to visit Yosemite, when the crowds give way to Muir's snow-flowers carpeting the Valley. Yosemite's [website](http://www.travelyosemite.com/) is an excellent resource for planning your visit -- a few highlights below!
+[Winter](http://www.nps.gov/yose/planyourvisit/winter.htm) is our favorite time of year to visit Yosemite, when the crowds give way to Muir's snow-flowers carpeting the Valley. [Yosemite's website](http://www.travelyosemite.com/) is an excellent resource for planning your visit -- a few highlights below!
 
 ### Badger Pass 
 
@@ -77,7 +77,7 @@ Due to the very limited size of our venue, we regret that we can't invite childr
 
 The [Curry Village Ice Skating Rink](http://www.travelyosemite.com/winter/half-dome-village-ice-skating-rink/), originally built as part of a bid to host the 1932 Olympic Winter Games, is another way to immerse yourself in the winter beauty of Yosemite. 
 
-### Yosemite Valley Floor tour
+### Yosemite Valley Floor bus tour
 
 [Valley Floor bus tours](http://www.travelyosemite.com/things-to-do/guided-bus-tours/) are available year-round to take in the sights of glacier-carved Yosemite Valley. 
 
@@ -91,4 +91,4 @@ The park provides [nature, history, and ranger-led programs](http://www.travelyo
 
 ### Other activities
 
-Please see Yosemite's [Things to Do](http://www.travelyosemite.com/things-to-do/experience-yosemite-national-park/) page for an exhaustive list!
+Please see Yosemite's [Activities](http://www.travelyosemite.com/things-to-do/experience-yosemite-national-park/) page for an exhaustive list!
