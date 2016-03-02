@@ -8,10 +8,10 @@ permalink: /Beiwerk/
 
 As of March 1, 2016, Aramark has succeeded Delaware North as the concessioner for Yosemite National Park. Due to a [trademark dispute](http://www.nps.gov/yose/learn/news/yosemite-national-park-to-change-historic-property-names.htm), Aramark has changed the names of many iconic Yosemite destinations. In protest, we'll continue to use the names we know Yosemite by. To avoid confusion, however, note that:
 
-*Yosemite Lodge at the Falls = Yosemite Valley Lodge
-*The Ahwahnee = The Majestic Yosemite Hotel
-*Curry Village = Half Dome Village
-*Badger Pass Ski Area = Yosemite Ski & Snowboard Area
+* Yosemite Lodge at the Falls = Yosemite Valley Lodge
+* The Ahwahnee = The Majestic Yosemite Hotel
+* Curry Village = Half Dome Village
+* Badger Pass Ski Area = Yosemite Ski & Snowboard Area
 
 ## Accommodations
 
