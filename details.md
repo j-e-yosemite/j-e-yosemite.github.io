@@ -74,7 +74,7 @@ Due to the very limited size of our venue, we regret that we can't invite childr
 
 #### Curry Village Ice Skating Rink
 
-The [Curry Village Ice Skating Rink](http://www.travelyosemite.com/winter/half-dome-village-ice-skating-rink/), originally built as part of a bid to host the 1932 Olympic Winter Games, is another way to immerse yourself in the beauty of Yosemite in winter. 
+The [Curry Village Ice Skating Rink](http://www.travelyosemite.com/winter/half-dome-village-ice-skating-rink/), originally built as part of a bid to host the 1932 Olympic Winter Games, is another way to immerse yourself in the winter beauty of Yosemite. 
 
 #### Yosemite Valley Floor bus tour
 
