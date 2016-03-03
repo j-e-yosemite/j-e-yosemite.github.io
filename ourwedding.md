@@ -14,7 +14,7 @@ Attire: [Cocktail](https://www.youtube.com/watch?v=Of5QjLNnufg) / [Semiformal](h
 
 ## Ceremony and reception
 
-#### The Ahwahnee Hotel
+### The Ahwahnee Hotel
 
 #### 1 Ahwahnee Drive, Yosemite National Park, CA 95389
 
