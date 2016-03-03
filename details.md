@@ -64,13 +64,13 @@ Due to the very limited size of our venue, we regret that we can't invite childr
 
 ## Things to do
 
-####"Nature chose for a tool, not the earthquake or lightning to rend and split asunder, not the stormy torrent or eroding rain, but the tender snow-flowers noiselessly falling through unnumbered centuries." -- John Muir, on Yosemite's glacial provenance
+####"Nature chose for a tool, not the earthquake or lightning to rend and split asunder, not the stormy torrent or eroding rain, but the tender snow-flowers noiselessly falling through unnumbered centuries." -- John Muir on Yosemite's glacial provenance
 
-[Winter](http://www.nps.gov/yose/planyourvisit/winter.htm) is our favorite time of year to visit Yosemite, when the crowds give way to Muir's snow-flowers carpeting the Valley. Yosemite's [website](http://www.travelyosemite.com/) is an excellent resource for planning your visit, but we have a few recommendations below!
+[Winter](http://www.nps.gov/yose/planyourvisit/winter.htm) is our favorite time of year to visit Yosemite, when the crowds give way to Muir's snow-flowers carpeting the Valley. Yosemite's [website](http://www.travelyosemite.com/) is an excellent resource for planning your visit, but we have a few highlights below!
 
 #### Badger Pass Ski Area
 
-[Badger Pass](http://www.travelyosemite.com/winter/yosemite-ski-snowboard-area/) is California's oldest ski resort, and where Emily (and Sarah and Ann!) learned to ski! 
+[Badger Pass](http://www.travelyosemite.com/winter/yosemite-ski-snowboard-area/) is California's oldest ski resort, and where Emily (and Sarah and Ann!) learned to ski! They offer backcountry ski tours, cross-country skiing, snow tubing, and snowshoeing in addition to downhill skiing and snowboarding. Don't know how to ski/snowboard? Their lessons [guarantee you'll learn!](http://www.travelyosemite.com/winter/yosemite-ski-snowboard-area/ski-school-lessons/)
 
 #### Curry Village Ice Skating Rink
 
@@ -90,4 +90,4 @@ The park provides [nature, history, and ranger-led programs](http://www.travelyo
 
 #### Other activities
 
-Please see Yosemite's [Activities](http://www.travelyosemite.com/things-to-do/experience-yosemite-national-park/) page for an exhaustive list!
+Please see Yosemite's [Activities](http://www.travelyosemite.com/things-to-do/experience-yosemite-national-park/) page for a complete list!
