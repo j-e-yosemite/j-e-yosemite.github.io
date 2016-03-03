@@ -74,7 +74,7 @@ Due to the very limited size of our venue, we regret that we can't invite childr
 
 #### Curry Village Ice Skating Rink
 
-The [Curry Village Ice Skating Rink](http://www.travelyosemite.com/winter/half-dome-village-ice-skating-rink/) is another way to immerse yourself in the winter beauty of Yosemite. It was originally built as part of a bid to host the 1932 Olympic Winter Games. 
+The [Curry Village Ice Skating Rink](http://www.travelyosemite.com/winter/half-dome-village-ice-skating-rink/), originally built as part of a bid to host the 1932 Olympic Winter Games, is another way to immerse yourself in the winter beauty of Yosemite.  
 
 #### Yosemite Valley Floor bus tour
 
@@ -86,5 +86,5 @@ Spend some time in the quiet of Yosemite in winter snow. Hiking information is a
 
 #### Nature and history programs
 
-The park provides [nature, history, and ranger-led programs](http://www.travelyosemite.com/things-to-do/ranger-nature-programs/) on the natural history of this singular place.
+The park provides [nature, history, and ranger-led programs](http://www.travelyosemite.com/things-to-do/ranger-nature-programs/) on the natural history of this incomparable place.
 
