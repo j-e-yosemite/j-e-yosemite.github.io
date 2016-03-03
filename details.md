@@ -64,9 +64,9 @@ Due to the very limited size of our venue, we regret that we can't invite childr
 
 ## Things to do
 
-####"Nature chose for a tool, not the earthquake or lightning to rend and split asunder, not the stormy torrent or eroding rain, but the tender snow-flowers noiselessly falling through unnumbered centuries." -- John Muir on Yosemite's glacial provenance
+####"Nature chose for a tool, not the earthquake or lightning to rend and split asunder, not the stormy torrent or eroding rain, but the tender snow-flowers noiselessly falling through unnumbered centuries." -- John Muir on Yosemite's glacial origin
 
-[Winter](http://www.nps.gov/yose/planyourvisit/winter.htm) is our favorite time of year to visit Yosemite, when the crowds give way to Muir's snow-flowers carpeting the Valley. Yosemite's [website](http://www.travelyosemite.com/) is an excellent resource for planning your visit, but we have a few highlights below!
+[Winter](http://www.nps.gov/yose/planyourvisit/winter.htm) is our favorite time of year to visit Yosemite, when the crowds give way to Muir's snow-flowers carpeting the Valley. Yosemite's [website](http://www.travelyosemite.com/) is an excellent resource for planning your visit. A few recommendations below!
 
 #### Badger Pass Ski Area
 
@@ -86,8 +86,5 @@ Spend some time in the quiet of Yosemite in winter snow. Hiking information is a
 
 #### Nature and history programs
 
-The park provides [nature, history, and ranger-led programs](http://www.travelyosemite.com/things-to-do/ranger-nature-programs/) on the natural history of this striking place.
+The park provides [nature, history, and ranger-led programs](http://www.travelyosemite.com/things-to-do/ranger-nature-programs/) on the natural history of this singular place.
 
-#### Other activities
-
-Please see Yosemite's [Activities](http://www.travelyosemite.com/things-to-do/experience-yosemite-national-park/) page for a complete list!
