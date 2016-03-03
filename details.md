@@ -86,5 +86,5 @@ Spend some time in the quiet of Yosemite in winter snow. Hiking information is a
 
 #### Nature and history programs
 
-The park provides [nature, history, and ranger-led programs](http://www.travelyosemite.com/things-to-do/ranger-nature-programs/) on the natural history of this incomparable place.
+The park provides [nature, history, and ranger-led programs](http://www.travelyosemite.com/things-to-do/ranger-nature-programs/) on the natural history of this striking place.
 
