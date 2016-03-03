@@ -8,10 +8,10 @@ permalink: /Beiwerk/
 
 As of March 1, 2016, Aramark has succeeded Delaware North as the concessioner for Yosemite National Park. Due to a [trademark dispute](http://www.nps.gov/yose/learn/news/yosemite-national-park-to-change-historic-property-names.htm), Aramark has changed the names of many iconic Yosemite destinations. In protest, we'll continue to use the names we know Yosemite by. To avoid confusion, however, note that:
 
-* The Ahwahnee Hotel is now The Majestic Yosemite Hotel
-* Yosemite Lodge at the Falls is now Yosemite Valley Lodge
-* Badger Pass Ski Area is now Yosemite Ski & Snowboard Area
-* Curry Village is now Half Dome Village
+* **The Ahwahnee Hotel** is now The Majestic Yosemite Hotel
+* **Yosemite Lodge at the Falls** is now Yosemite Valley Lodge
+* **Badger Pass Ski Area** is now Yosemite Ski & Snowboard Area
+* **Curry Village** is now Half Dome Village
 
 ## Accommodations
 
@@ -70,7 +70,7 @@ Due to the very limited size of our venue, we regret that we can't invite childr
 
 #### Badger Pass Ski Area
 
-[Badger Pass](http://www.travelyosemite.com/winter/yosemite-ski-snowboard-area/) is California's oldest ski resort, and where Emily (and Sarah and Ann!) learned to ski! They offer backcountry ski tours, cross-country skiing, snow tubing, and snowshoeing in addition to downhill skiing and snowboarding. Don't know how to ski/snowboard? Their lessons [guarantee you'll learn!](http://www.travelyosemite.com/winter/yosemite-ski-snowboard-area/ski-school-lessons/)
+[Badger Pass](http://www.travelyosemite.com/winter/yosemite-ski-snowboard-area/) is California's oldest ski resort, and where Emily (and Sarah and Ann!) learned to ski! They offer backcountry ski tours, cross-country skiing, snow tubing, and snowshoeing in addition to downhill skiing and snowboarding. 
 
 #### Curry Village Ice Skating Rink
 
