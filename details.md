@@ -8,10 +8,10 @@ permalink: /Beiwerk/
 
 As of March 1, 2016, Aramark has succeeded Delaware North as the concessioner for Yosemite National Park. Due to a [trademark dispute](http://www.nps.gov/yose/learn/news/yosemite-national-park-to-change-historic-property-names.htm), Aramark has changed the names of many iconic Yosemite destinations. In protest, we'll continue to use the names we know Yosemite by. To avoid confusion, however, note that:
 
-* The Ahwahnee Hotel is now **The Majestic Yosemite Hotel**
-* Yosemite Lodge at the Falls is now **Yosemite Valley Lodge**
-* Badger Pass Ski Area is now **Yosemite Ski & Snowboard Area**
-* Curry Village is now **Half Dome Village**
+* The Ahwahnee Hotel is now The Majestic Yosemite Hotel
+* Yosemite Lodge at the Falls is now Yosemite Valley Lodge
+* Badger Pass Ski Area is now Yosemite Ski & Snowboard Area
+* Curry Village is now Half Dome Village
 
 ## Accommodations
 
@@ -35,7 +35,7 @@ Yosemite's National Park status prevents us from setting aside a block of rooms 
 
 #### Notable details
 
-* By law, tire chains must be carried in vehicles from October - April. The park's resource on [winter driving](http://www.travelyosemite.com/winter/winter-travel-conditions/) provides more information. For the latest updates on road conditions, call 209-372-0200 or go [here](http://www.nps.gov/yose/planyourvisit/conditions.htm).
+* By law, tire chains must be carried in vehicles from October - April. The park's resource on [winter driving](http://www.travelyosemite.com/winter/winter-travel-conditions/) provides more information. For the latest updates on road conditions, call 209-372-0200 or visit this [page](http://www.nps.gov/yose/planyourvisit/conditions.htm).
 * The National Park Service collects an entrance [fee](http://www.nps.gov/yose/planyourvisit/fees.htm) per vehicle, which is good for seven days.
 * Don't leave any food in your vehicle -- black bears are part of Yosemite's spectacular biodiversity!
 
@@ -66,15 +66,15 @@ Due to the very limited size of our venue, we regret that we can't invite childr
 
 ####"Nature chose for a tool, not the earthquake or lightning to rend and split asunder, not the stormy torrent or eroding rain, but the tender snow-flowers noiselessly falling through unnumbered centuries." -- John Muir, on Yosemite's glacial provenance
 
-[Winter](http://www.nps.gov/yose/planyourvisit/winter.htm) is our favorite time of year to visit Yosemite, when the crowds give way to Muir's snow-flowers carpeting the Valley. Yosemite's [website](http://www.travelyosemite.com/) is an excellent resource for planning your visit -- a few highlights below!
+[Winter](http://www.nps.gov/yose/planyourvisit/winter.htm) is our favorite time of year to visit Yosemite, when the crowds give way to Muir's snow-flowers carpeting the Valley. Yosemite's [website](http://www.travelyosemite.com/) is an excellent resource for planning your visit, but we have a few recommendations below!
 
 #### Badger Pass Ski Area
 
-[Badger Pass](http://www.travelyosemite.com/winter/yosemite-ski-snowboard-area/) is California's oldest ski resort, and where Emily (and Sarah and Ann!) learned to ski! It's well worth visiting.
+[Badger Pass](http://www.travelyosemite.com/winter/yosemite-ski-snowboard-area/) is California's oldest ski resort, and where Emily (and Sarah and Ann!) learned to ski! 
 
 #### Curry Village Ice Skating Rink
 
-The [Curry Village Ice Skating Rink](http://www.travelyosemite.com/winter/half-dome-village-ice-skating-rink/), originally built as part of a bid to host the 1932 Olympic Winter Games, is another way to immerse yourself in the winter beauty of Yosemite. 
+The [Curry Village Ice Skating Rink](http://www.travelyosemite.com/winter/half-dome-village-ice-skating-rink/) is another way to immerse yourself in the winter beauty of Yosemite. It was originally built as part of a bid to host the 1932 Olympic Winter Games. 
 
 #### Yosemite Valley Floor bus tour
 
