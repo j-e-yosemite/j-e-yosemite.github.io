@@ -8,8 +8,9 @@
 # Site settings
 title: Emily and Jim
 email: j.e.yosemite@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Website for Emily and Jim's Yosemite wedding, February 18, 2017
+description: |
+  Website for Emily and Jim's Yosemite wedding
+  February 18, 2017
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "j-e-yosemite.github.io"
 github_username:  jschneidereit
