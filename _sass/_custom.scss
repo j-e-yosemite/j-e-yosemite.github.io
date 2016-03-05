@@ -17,12 +17,13 @@
         } 
     }
     .site-header {
-        .site-nav .page-link {
-            color: $text-color-light;
+        .site-nav .page-link { 
+            color: $text-color-light; 
+        }        
+        .site-title {
+            color: $text-color-light; 
         }
-         .site-title {
-            color: $text-color-light;
-        }
+        @include media-query($on-palm) {.site-nav .page-link { color: $text-color; } }
     }
     a {
         color: $brand-color-light;
@@ -34,6 +35,3 @@
         }
     }
  }
-
- 
-
