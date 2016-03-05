@@ -8,7 +8,7 @@ permalink: /Hochzeit/
 
 Saturday, February 18, 2017
 
-4:15 PM
+4:15 pm
 
 Attire: [Cocktail](https://www.youtube.com/watch?v=Of5QjLNnufg) / [Semiformal](https://www.theknot.com/content/wedding-guest-attire-cheat-sheet)
 
