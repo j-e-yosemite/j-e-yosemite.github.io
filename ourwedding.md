@@ -23,3 +23,34 @@ The ceremony will be outdoors on the Ahwahnee wedding lawn, a short walk from th
 ## Other events
 
 Yosemite is a spectacular, natural place. To honor the deserved enjoyment of all who visit here, quiet hours in Yosemite Valley begin at 10:00 pm. Thus ends our reception, but the Ahwahnee Bar will be open until 11:00 pm for those who'd like to revel a bit more with us!
+
+## Our story
+
+### How we met
+
+Emily and Jim are high school sweethearts. We can't recall the first time we met (likely some time in the 5th grade when we both moved to the Central Coast), but we're longtime friends who started spending more time together after our Spanish "profesor" sat us next to each other in our sophomore year of high school. Emily loved Jim's sense of humor, but it took until the summer of our junior year for him to finally ask her out! 
+
+We fell in love over long drives through the beautiful Central Coast in Jim's maroon Audi station wagon. Happily we were just across San Francisco Bay from each other in college, with Jim at San Francisco State University and Emily at UC Berkeley. In the summer of 2014, right before we both went off to graduate school, Jim asked Emily to marry him (at a favorite restaurant of her father Greg's in Port San Luis, with a ring Jim had had [custom designed](http://www.serengetiwest.com/)). 
+
+Emily began her PhD in Genome Sciences at the University of Washington with a gorgeous ring on her finger, and we're again lucky to be in relatively close proximity: Emily in Seattle and Jim at Oregon State University in Corvallis, Oregon for his master's in Computer Science. We've burned up Interstate 5 between the two cities and put thousands of miles on our cars, so we're ardently looking forward to Jim's June graduation and finally being together in one place!
+
+Yosemite is one of our favorite places to visit, and Emily always knew she wanted to get married there -- particularly because of her wonderful memories of visiting Yosemite with her father (who we lost to cancer in 2008) and family. After almost ten years together, we're so excited to be married and to have you there to share in our joy! 
+
+## Wedding party
+
+#### Bridesmaids
++ Sarah Killingbeck -- Maid of Honor
++ Stephanie Schneidereit -- Bridesmaid
++ Whitney Cary -- Bridesmaid
++ Hannah Chase -- Bridesmaid
++ Alisha Ellis -- Bridesmaid
++ Meara Foster -- Bridesmaid
+
+#### Groomsmen
++ Nick Ellis -- Best Man
++ Phillip Carter -- Groomsman
++ Matt Duhon -- Groomsman
++ Ed Evans -- Groomsman
++ Justin Greene -- Groomsman
++ Jeff Hunter -- Groomsman
++ Alex Lepinski -- Groomsman
