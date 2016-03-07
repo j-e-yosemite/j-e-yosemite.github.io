@@ -41,7 +41,7 @@ Yosemite's National Park status prevents us from setting aside a block of rooms 
 
 #### Directions
 
-Whether you're traveling by [car, train, bus, or plane](http://www.travelyosemite.com/discover/getting-here/), we can't wait to see you! Public transportation connects Yosemite to San Francisco, San Jose, Oakland, Fresno, and Merced.
+Whether you're traveling by [car, train, bus, or plane](http://www.travelyosemite.com/discover/getting-here/), we can't wait to see you! [Public transportation](http://yarts.com/) connects Yosemite to San Francisco, San Jose, Oakland, Fresno, and Merced.
 
 #### Airport
 
