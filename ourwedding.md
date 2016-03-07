@@ -28,7 +28,7 @@ Yosemite is a spectacular, natural place. To honor the deserved enjoyment of all
 
 ### How we met
 
-Emily and Jim are high school sweethearts. We can't remember the first time we met (likely some time in the 5th grade), but we're longtime friends who started spending more time together after our Spanish "profesor" sat us next to each other in our sophomore year of high school. Emily was drawn to Jim's sense of humor -- in fact he'd get them in trouble in class making her laugh -- but it took until junior year summer for him to finally ask her out! 
+Emily and Jim are high school sweethearts. We can't remember the first time we met (likely some time in the 5th grade), but we're longtime friends who started spending more time together after our Spanish "profesor" sat us next to each other our sophomore year of high school. Emily was drawn to Jim's sense of humor -- in fact he'd get them in trouble in class making her laugh -- but it took until junior year summer for him to finally ask her out! 
 
 We fell in love over long drives through the Central Coast in Jim's maroon Audi station wagon. Happily, we were just across San Francisco Bay from each other for college -- Jim at San Francisco State University and Emily at UC Berkeley. In the summer of 2014, before we both went off to graduate school, Jim asked Emily to marry him (at a favorite restaurant of her father Greg's in Port San Luis, with a ring Jim had had [custom designed](http://www.serengetiwest.com/)). 
 
