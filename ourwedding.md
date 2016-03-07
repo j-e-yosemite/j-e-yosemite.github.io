@@ -39,7 +39,7 @@ Yosemite is one of our favorite places to visit, and Emily always knew she wante
 ## Wedding party
 
 #### Bridesmaids
-+ Sarah Killingbeck -- Maid of Honor
++ Sarah Killingbeck -- Maid of Honor, and Emily's identical twin!
 + Stephanie Schneidereit -- Bridesmaid
 + Whitney Cary -- Bridesmaid
 + Hannah Chase -- Bridesmaid
