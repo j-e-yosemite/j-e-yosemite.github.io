@@ -34,7 +34,7 @@ We fell in love over long drives through the Central Coast in Jim's maroon Audi 
 
 So Emily began her PhD in Genome Sciences at the University of Washington with a gorgeous ring on her finger. We're again lucky to be relatively close together, with Emily in Seattle and Jim at Oregon State University in Corvallis, Oregon for his master's in Computer Science. In the past two years, we've burned up Interstate 5 between the two cities and put thousands of miles on our cars. While it's been a lot of fun, we're ardently looking forward to Jim's June graduation and to finally being together in one place!
 
-Yosemite is one of our favorite places to visit, and Emily always knew she wanted to be married there -- especially because of her happy memories of being there with her father (who we lost to cancer in 2008) and family. We're so excited to be married after almost ten years together, and to have you there to share in our joy! 
+Yosemite is one of our favorite places to visit, and Emily always knew she wanted to get married there -- especially because of her happy memories of being there with her father (who we lost to cancer in 2008) and family. We're so excited to be married after almost ten years together, and to have you there to share in our joy! 
 
 ## Wedding party
 
