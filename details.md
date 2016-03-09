@@ -64,7 +64,7 @@ Due to the very limited size of our venue, we regret that we can't invite childr
 
 ## Things to do
 
-#### "Nature chose for a tool, not the earthquake or lightning to rend and split asunder, not the stormy torrent or eroding rain, but the tender snow-flowers noiselessly falling through unnumbered centuries." -- John Muir, on Yosemite's glacial provenance
+#### "Nature chose for a tool, not the earthquake or lightning to rend and split asunder, not the stormy torrent or eroding rain, but the tender snow-flowers noiselessly falling through unnumbered centuries." -- John Muir, on Yosemite's glacial origin
 
 [Winter](http://www.nps.gov/yose/planyourvisit/winter.htm) is our favorite time of year in Yosemite, when the crowds give way to Muir's snow-flowers carpeting the Valley. Yosemite's [website](http://www.travelyosemite.com/) is an excellent resource for planning your visit. A few recommendations below!
 
