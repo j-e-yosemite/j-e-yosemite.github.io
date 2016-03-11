@@ -41,7 +41,7 @@ Yosemite's National Park status prevents us from setting aside a block of rooms 
 
 #### Directions and transportation
 
-Whether you're traveling by [car, train, bus, or plane](http://www.travelyosemite.com/discover/getting-here/), we can't wait to see you! The [Yosemite Area Regional Transportation System (YARTS)](http://yarts.com/) connects Yosemite to Fresno, Merced, and Sonora. [AMTRAK](https://www.amtrak.com/home) trains from San Diego, Los Angeles, Fresno, San Jose, San Francisco, and Sacramento connect with YARTS bus lines for direct transportation to Yosemite Valley. 
+Whether you're traveling by [car, train, bus, or plane](http://www.travelyosemite.com/discover/getting-here/), we can't wait to see you! The [Yosemite Area Regional Transportation System (YARTS)](http://yarts.com/) links Yosemite to Fresno, Merced, and Sonora. [AMTRAK](https://www.amtrak.com/home) trains from San Diego, Los Angeles, Fresno, San Jose, San Francisco, and Sacramento connect via YARTS bus lines to Yosemite Valley. 
 
 #### Airport
 
