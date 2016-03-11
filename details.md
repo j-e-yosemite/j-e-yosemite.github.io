@@ -39,7 +39,7 @@ Yosemite's National Park status prevents us from setting aside a block of rooms 
 * The National Park Service collects an entrance [fee](http://www.nps.gov/yose/planyourvisit/fees.htm) per vehicle, which is good for seven days.
 * Don't leave any food in your vehicle -- black bears are part of Yosemite's spectacular biodiversity!
 
-#### Transportation
+#### Directions and transportation
 
 Whether you're traveling by [car, train, bus, or plane](http://www.travelyosemite.com/discover/getting-here/), we can't wait to see you! The [Yosemite Area Regional Transportation System (YARTS)](http://yarts.com/) connects Yosemite to Fresno, Merced, and Sonora. [AMTRAK](https://www.amtrak.com/home) trains from San Diego, Los Angeles, Fresno, San Jose, San Francisco, and Sacramento connect with YARTS bus lines for direct transportation to Yosemite Valley. 
 
