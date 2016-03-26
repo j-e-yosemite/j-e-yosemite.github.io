@@ -52,5 +52,6 @@ Yosemite is one of our favorite places to visit, and Emily always knew she wante
 + Matt Duhon -- Groomsman
 + Ed Evans -- Groomsman
 + Justin Greene -- Groomsman
++ Spencer Hubbard -- Groomsman
 + Jeff Hunter -- Groomsman
 + Alex Lepinski -- Groomsman
