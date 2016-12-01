@@ -6,7 +6,7 @@ permalink: /Beiwerk/
 
 ## Disclaimer!
 
-As of March 1, 2016, Aramark has succeeded Delaware North as the concessioner for Yosemite National Park. Due to a [trademark dispute](http://www.nps.gov/yose/learn/news/yosemite-national-park-to-change-historic-property-names.htm), Aramark has changed the names of many iconic Yosemite destinations. In protest, we'll continue to use the names we know Yosemite by. To avoid confusion, however, note that:
+As of March 1, 2016, Aramark has succeeded Delaware North as the concessionaire for Yosemite National Park. Due to a [trademark dispute](http://www.nps.gov/yose/learn/news/yosemite-national-park-to-change-historic-property-names.htm), Aramark has changed the names of many iconic Yosemite destinations. In protest, we'll continue to use the names we know Yosemite by. To avoid confusion, however, note that:
 
 * **The Ahwahnee Hotel** is now The Majestic Yosemite Hotel
 * **Yosemite Lodge at the Falls** is now Yosemite Valley Lodge
