@@ -14,6 +14,7 @@ description: |
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "j-e-yosemite.github.io"
 github_username:  jschneidereit
+google_analytics: UA-89024714-1
 
 # Build settings
 markdown: kramdown
