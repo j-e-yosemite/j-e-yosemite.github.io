@@ -14,4 +14,8 @@
     <link rel="shortcut icon" type="image/png" href="../img/favicon.png">
     {% endif %}
     
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+    
 </head>
