@@ -41,7 +41,7 @@ Yosemite's National Park status prevents us from setting aside a block of rooms 
 
 #### Directions and transportation
 
-[Here's a link to find directions from your starting point to where the wedding is held.](https://www.google.com/maps/dir//The+Majestic+Yosemite+Hotel,+Yosemite+National+Park,+1+Ahwahnee+Drive,+YOSEMITE+NATIONAL+PARK,+CA+95389/@37.7463066,-119.5754088,18z/data=!4m15!1m6!3m5!1s0x8096f2247ecdffc7:0x158818855532ea96!2sThe+Majestic+Yosemite+Hotel!8m2!3d37.746154!4d-119.574336!4m7!1m0!1m5!1m1!1s0x8096f2247ecdffc7:0x158818855532ea96!2m2!1d-119.574336!2d37.746154)
+To get directions from your location to where the wedding is held, click [here](https://www.google.com/maps/dir//The+Majestic+Yosemite+Hotel,+Yosemite+National+Park,+1+Ahwahnee+Drive,+YOSEMITE+NATIONAL+PARK,+CA+95389/@37.7463066,-119.5754088,18z/data=!4m15!1m6!3m5!1s0x8096f2247ecdffc7:0x158818855532ea96!2sThe+Majestic+Yosemite+Hotel!8m2!3d37.746154!4d-119.574336!4m7!1m0!1m5!1m1!1s0x8096f2247ecdffc7:0x158818855532ea96!2m2!1d-119.574336!2d37.746154).
 
 #### Airport
 
