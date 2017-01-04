@@ -35,7 +35,7 @@ Yosemite's National Park status prevents us from setting aside a block of rooms 
 
 #### Notable details
 
-* By law, tire chains must be carried in vehicles from October - April. The park's resource on [winter driving](http://www.travelyosemite.com/winter/winter-travel-conditions/) provides more information. Tire chains can be rented; this [page](https://www.tripadvisor.com/Travel-g61000-c148794/Yosemite-National-Park:California:All.About.Tire.Chain.Rentals.And.Sales.html) gives details. For the latest updates on road conditions, call [209-372-0200](tel:+12093720200) or visit this [page](http://www.nps.gov/yose/planyourvisit/conditions.htm).
+* By law, [tire chains](https://www.nps.gov/yose/planyourvisit/tirechains.htm) must be carried in vehicles from October - April. The park's resource on [winter driving](http://www.travelyosemite.com/winter/winter-travel-conditions/) provides more information. Tire chains can be rented; this [page](https://www.tripadvisor.com/Travel-g61000-c148794/Yosemite-National-Park:California:All.About.Tire.Chain.Rentals.And.Sales.html) gives details. For the latest updates on road conditions, call [209-372-0200](tel:+12093720200) or visit this [page](http://www.nps.gov/yose/planyourvisit/conditions.htm).
 * The National Park Service collects an entrance [fee](http://www.nps.gov/yose/planyourvisit/fees.htm) per vehicle, which is good for seven days.
 * Don't leave any food in your vehicle -- black bears are part of Yosemite's spectacular biodiversity!
 
